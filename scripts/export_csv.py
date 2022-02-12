@@ -10,7 +10,7 @@ def export(link_file, output_file):
     with open(link_file, 'r') as json_file:
         json_list = list(json_file)
     
-    df = pd.DataFrame()
+    df = pd.DataFrame().iloc[:100]
 
     list_id = []
     list_sentence = []
