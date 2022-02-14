@@ -1,0 +1,1001 @@
+ids,intents,sentences,sentence_orgin
+9024,calendar_set,biến cố ,event
+7874,calendar_set,Tôi cần một sự kiện ba ngày kể từ bây giờ theo lịch trình với Amy ,i need an event three days from now scheduled with amy
+5822,audio_volume_up,vặn to lên ,turn up
+5013,iot_hue_lightup,Làm sáng đèn một chút ,brighten the lights a little bit
+3033,weather_query,Thời tiết hiện tại là gì ,what's the current weather
+2831,iot_coffee,Hãy pha cà phê ,please make coffee
+5148,audio_volume_mute,chế độ im lặng trong ba giờ tiếp theo ,silent mode on for the next three hours
+11236,lists_remove,Loại bỏ thức ăn cho chó khỏi danh sách tạp hóa của tôi ,remove dog food from my grocery list
+16742,email_query,Kiểm tra email của tôi cho các email mới trong giờ cuối cùng ,check my email for new emails during the last hour
+5172,alarm_set,Hãy đánh thức tôi dậy lúc bảy giờ ba mươi sáng ,please wake me up at seven thirty am
+5891,alarm_query,Có bất kỳ báo động nào đặt họ là gì ,are there any alarms set what are they
+15135,qa_stock,Là tôi. b. m. cho đến ngày ,is i. b. m. up today
+6951,calendar_set,"Tôi muốn bạn nhắc tôi cuộc gặp gỡ tiếp theo với bạn gái của tôi, đó sẽ là lúc tám giờ tối vào Chủ nhật tuần sau ",i want you to remind me the next meeting with my girlfriend it will be at eight pm next sunday
+5311,play_music,hey olly chơi chiến thuật chơi nhạc từ âm nhạc ,hey olly play playlist tactics from music
+11917,recommendation_events,Tôi cần một cái gì đó vui vẻ để làm cuối tuần này gần đó bạn có thể cho tôi ý tưởng ,i need something fun to do this weekend nearby can you give me ideas
+701,weather_query,Kiểm tra thời tiết ,check weather
+14842,qa_definition,Transitor là gì ,what is a transistor
+7619,calendar_set,Khi nào tôi sẽ gặp Joe tiếp theo ,when will i meet with joe next
+4200,alarm_remove,Snooze tất cả các báo động ngày nay vĩnh viễn ,snooze all today's alarms permanently
+11461,play_podcasts,Chơi podcast đó ,play that podcast please
+7790,calendar_set,xin vui lòng nhắc nhở tôi về mười một cuộc gặp gỡ kinh doanh ,please remind me about the eleven am business meet
+15204,social_query,nhắc nhở chương trình trực tiếp ,live show reminders
+5542,alarm_query,Xin vui lòng cho tôi biết báo động được giữ cho cuộc họp thứ ba ,please let me know the alarm kept for tuesday's meeting
+16235,email_addcontact,Thêm dale @ gmail dot com vào danh bạ của tôi ,add dale@gmail dot com to my contacts
+11884,recommendation_events,Những gì đang xảy ra tối nay ở Chicago ,what's happening tonight in chicago
+6003,weather_query,Tôi có cần mặc một số quần áo ấm ngày hôm nay không ,do i need to wear some warm clothes today
+4952,news_query,tàu đắm ,train wreck
+7963,calendar_query,Tôi có lời nhắc sắp tới không ,do i have any upcoming reminders
+4649,music_likeness,tôi thích bài hát đó ,i love that song
+13745,general_quirky,Bạn có thể đảm bảo rằng bạn có thể chọn số xổ số chiến thắng ,can you guarantee that you can chose the winning lottery numbers
+1670,news_query,Facebook ra mắt thẻ tranh chấp để phá vỡ tin tức giả mạo ,facebook launches disputed tag to crack down on fake news
+14256,qa_factoid,Tải xuống một số vocab ,download certain vocab
+3249,alarm_remove,Hủy báo động lần thứ mười hai nghìn mười bảy ,cancel alarm for tenth of march two thousand seventeen
+7452,calendar_set,bạn có thể vui lòng tạo một sự kiện mới trên lịch của tôi ,could you please create a new event on my calendar
+6114,takeaway_order,hey đặt hàng một chiếc bánh pizza với thêm phô mai ,hey order a pizza pie with extra cheese
+15817,email_query,Bất kỳ email gần đây từ Anna ,any recent emails from anna
+9666,play_audiobook,Chơi Audiobook. ,play audiobook
+83,iot_cleaning,hey bắt đầu robot máy hút bụi ,hey start vacuum cleaner robot
+6197,general_greet,bạn là ai ,who are you
+6802,calendar_query,Hãy cho tôi biết các cuộc họp của tôi vào sáng thứ tư này ,tell me my meetings this wednesday morning
+4656,alarm_set,Đặt báo thức cho thứ Năm lúc bảy giờ chiều ,set an alarm for thursday at seven pm
+7638,calendar_set,Thêm cuộc hẹn nha sĩ cho thứ Sáu lúc năm ,add dentist appointment for friday at five
+16845,email_query,Kiểm tra email ngày hôm nay ,check email today
+13882,qa_stock,Tôi là gì vậy. b. Giá cổ phiếu của M. ,what are i. b. m.'s stock prices
+12567,transport_query,Tôi cần chỉ đường cho lowes trong Mount H NJ ,i need directions to lowes in mount h nj
+12493,transport_taxi,Tôi cần một chiếc taxi trong ba mươi phút ,i need a taxi in thirty minutes
+6921,calendar_set,Đặt một thông báo cho mười một tháng 3 rằng một cuộc phỏng vấn được lên kế hoạch với ông Rodriguez ,set a notification for eleven march that an interview is scheduled with mr rodriguez
+15159,social_query,Tôi có thể biết những gì đang có xu hướng trong facebook ,may i know what is trending in facebook
+5078,weather_query,tôi có cần một chiếc áo khoác không ,do i need a coat
+16116,email_sendemail,"Từ mười giờ tối đến chín giờ sáng, tất cả các email nhận được là được trả lời ",between ten pm to nine am all emails received is to be replied to
+3903,alarm_remove,Vui lòng xóa bộ báo động cho thứ tư được gọi là Kickball ,please remove the alarm set for wednesday called kickball
+1485,alarm_query,Liệt kê tất cả các báo động ,list all the alarms
+4263,general_joke,Bạn đã nghe thấy bất kỳ những trò đùa tốt gần đây ,have you heard any good jokes lately
+11880,recommendation_events,Tôi nên làm gì ở San Diego ,what should i do in san diego
+13200,qa_maths,Trả lời câu hỏi toán học này ,answer this mathematical question
+9079,calendar_set,Tháng sau sinh nhật anh em tôi ,next month my brothers birthday
+15481,social_post,Nhận nó khắc phục nhanh ,get it fast resolved
+8599,calendar_set,nhắc nhở tôi vào buổi sáng để gọi mẹ tôi ,remind me in the morning to call my mother
+12833,transport_ticket,Alexa đặt cho tôi một vé tàu cho chiều nay đến Chicago ,alexa book me a train ticket for this afternoon to chicago
+3476,alarm_set,giúp tôi cài đặt báo thức ,get me to alarm setting
+14478,qa_maths,Hai mươi ba lần năm mươi hai là bao nhiêu ,what is twenty three times fifty two
+10043,cooking_recipe,Có bao nhiêu cốc đường trong Texas Tấm Frosting ,how many cups of sugar in texas sheet cake frosting
+13822,general_quirky,Mr T có gia đình không ,does mr t have a family
+11516,play_podcasts,Olly hãy nghe Hợp chủng quốc sự lo lắng Podcast ,olly let's hear the united states of anxiety podcast
+13468,qa_factoid,Tôi muốn nếu sẽ thông minh và thông minh theo cách nó sẽ quen thuộc với tôi và nhận ra cách tôi thích kết quả sẽ là ,i would like if will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be
+4140,weather_query,Khi nào nó được cho là trên năm mươi một lần nữa ,when is it suppose to be above fifty again
+549,music_settings,Vui lòng lặp lại âm nhạc đó một lần nữa của Akon ,please repeat that music again of akon
+9129,calendar_remove,Xóa sự kiện lịch tiếp theo ,erase next calendar event
+13512,qa_factoid,Thủ đô của Maryland là gì ,what is the capital of maryland
+15188,social_query,Kiểm tra tài khoản Twitter của tôi ,check my twitter account
+5624,alarm_set,báo động năm giờ tối ,alarm five pm
+16190,email_sendemail,Viết email đến công ty của tôi để gửi nhiệm vụ vào ngày mai ,write email to my company mate to submit the task tomorrow
+4597,iot_wemo_on,Bật đài phát thanh phòng khách ,turn on living room radio
+11095,lists_remove,Tìm danh sách bạn muốn xóa ,find the list you want to delete
+9842,play_audiobook,bạn có thể chơi tập tin không ,can you play file
+4535,news_query,các tiêu đề từ l. Một. lần ,what are the headlines from the l. a. times
+15446,social_post,Tweet khiếu nại của tôi về mục tiêu Dịch vụ khách hàng ,tweet my complaint on targets customer service
+4965,iot_wemo_on,Vui lòng bật ổ cắm wemo của tôi ,please switch on my wemo plug socket
+10082,cooking_recipe,Làm thế nào để bạn làm chay lasagna ,how do you make vegetarian lasagna
+9704,play_audiobook,Tôi muốn tiếp tục nơi tôi rời khỏi trong cuốn sách âm thanh của mình ,i want to resume where i last left off in my audio book
+4539,email_sendemail,"Tôi không muốn bạn gửi văn bản đó, chờ đợi cho đến khi tôi nói gửi ",i did not want you to send that text yet wait until i say send
+16743,email_sendemail,Gửi email sau đến chị tôi ,send the following email to my sister
+565,iot_hue_lightchange,Thay đổi màu sắc của đèn ,change color of lights
+9276,play_radio,Đài phát thanh chỉ nên chơi trên chín trăm chín mươi chín fm ,the radio should play only on nine hundred and ninety nine fm
+14749,qa_factoid,Richard Nixon được sinh ra khi nào ,when was richard nixon born
+16284,email_querycontact,Áp dụng tìm kiếm và kiểm tra ,apply search and check
+15733,social_post,Tweet tổng thống và nói với anh ta rằng anh ta đang làm một công việc khủng khiếp ,tweet the president and tell him he's doing a horrible job
+14231,qa_factoid,Sắt được làm như thế nào ,how is iron made
+7671,calendar_query,Các sự kiện sắp tới của tôi là gì ,what is the my upcoming events
+6291,general_quirky,Ai đã thắng trò chơi thể thao đêm qua ,who won the sports game last night
+14463,qa_factoid,Tìm chi tiết về Hoa Kỳ ,find details about usa
+17027,email_sendemail,Hãy gửi email Sandy ,let's email sandy
+10463,lists_remove,xóa danh sách ,delete list
+2828,audio_volume_mute,Tạm dừng âm nhạc ,pause the music
+12784,transport_traffic,cho tôi một báo cáo giao thông hiện tại ,give me a current traffic report
+14600,qa_currency,đổi tiền ,money exchange
+9077,general_quirky,tìm kiếm thời gian rảnh ,look for free time
+557,alarm_query,Có bao nhiêu báo động được liệt kê ,how many alarms are listed
+12690,transport_traffic,Giao thông trên I hai mươi lăm như thế nào ,how is the traffic on i twenty five
+16174,email_sendemail,Gửi email cho ông chủ cảm thấy không cảm thấy tốt trong một ngày bệnh hoạn ,send email to boss not feeling well taking a sick day
+13732,qa_stock,Giá đóng cửa của Apple là bao nhiêu ,what's the closing price of apple
+6145,datetime_query,Nói cho tôi biết thời gian ở một thành phố khác ở Mỹ ,tell me the time in another city in us
+16143,email_sendemail,Tạo một email đến Aran ,create an email to aran
+15720,social_post,Tweet dịch vụ xấu liên quan đến Haskell McDonalds địa phương ,tweet bad service related to out local haskell mcdonalds
+574,music_settings,Lặp lại cùng một bài hát trong mười lần ,repeat same song for ten times
+7923,calendar_query,Cuộc họp của tôi là mấy giờ ,what time is my meeting
+9387,play_radio,Tìm trạm đá tốt nhất gần vị trí của tôi và bật nó lên ,find the best rock station near my location and turn it on
+9496,play_radio,Chơi ga Jazz ,play the jazz station
+13092,qa_definition,Định nghĩa của phiên là gì ,what is the definition of session
+12841,transport_taxi,mở Lyft. ,open lyft
+12657,transport_taxi,Đặt một chiếc taxi để đón Shelley Hennessey tại Cổng Bốn sân bay để đến chuyến bay AA năm nghìn bốn trăm ba mươi một ở ba trăm hai mươi mốt thứ Sáu ,book a taxi to pick up shelley hennessey at gate four of the airport for the arrival of aa flight five thousand four hundred and thirty one at three hundred and twenty one on friday
+14890,qa_definition,đối tượng đó là gì ,whats that object about
+878,takeaway_order,Thứ tự thực phẩm từ GRUBHUB ,food order from grub hub
+7488,calendar_query,Các cuộc hẹn vào thứ Tư này ,appointments this wednesday
+3215,news_query,Các bản cập nhật mới nhất liên quan đến mối quan hệ của Trump là gì với Nga ,what are the latest updates with regard to trump's ties to russia
+13941,qa_definition,Tôi muốn biết ý nghĩa của từ ,i would like to know the meaning of word
+8754,calendar_set,Lên lịch bổ nhiệm bác sĩ của tôi vào thứ Sáu lúc hai giờ chiều ,schedule my doctors appointment on friday at two pm
+2977,iot_hue_lightchange,Thay đổi màu sắc của bạn sang một cái gì đó khác nhau ,change your colors to something different
+4806,general_joke,Tôi cần một trò đùa tốt ,i need a good joke
+1245,iot_hue_lightchange,Đặt màu của ánh sáng thành màu đỏ ,set the colour of light to red
+10839,general_quirky,giờ thì sao ,now what
+5712,weather_query,Sáng nay sẽ ở lại Sunny ,will this morning stay sunny
+5945,calendar_set,Nhắc nhở bạn tôi nhận được nhiệm vụ vào ngày mai ,remind my friend to get the assignment tomorrow
+3653,datetime_query,Nói cho tôi biết thời gian ở London England ,tell me the time in london england
+2188,iot_hue_lightoff,olly bạn có thể vui lòng tắt đèn giường ngủ của tôi ,olly can you please turn off the light of my bed room
+16281,email_sendemail,Vui lòng gửi email đến hiệu trưởng Toms liên quan đến cuộc họp mà chúng ta có vào ngày mai ,please send an email to toms principal in regards to the meeting we have tomorrow
+877,takeaway_order,Thứ tự thực phẩm từ GRUBHUB ,food order from grubhub
+2485,datetime_query,Mấy giờ ở Florida ,what time is it in florida
+3216,news_query,Làm thế nào là phương tiện truyền thông tin tức phản ứng với mối quan hệ tiềm năng của Trump với Nga ,how is the news media reacting to trump's potential ties with russia
+15675,social_post,Điều này có thể mang lại những vấn đề này cho chúng ta ,"this may brings given of these proble,s to us"
+7825,calendar_set,Vui lòng lên lịch hẹn cắt tóc cho một giờ chiều vào thứ bảy ,please schedule a hair cutting appointment for one pm on saturday
+5020,play_music,Chơi nhạc iTunes của tôi ,play my itunes music
+8718,calendar_set,Đặt lịch hẹn vào thứ Sáu tới ,make appointment for next friday
+1665,news_query,Tin tức sạch sẽ trong sáu giờ qua ,what is so clean news for the last six hours
+12481,transport_taxi,Tìm tôi một uber ,find me an uber
+4590,news_query,Thêm một trình thông báo mới cho GPS trên xe của tôi ,add a new notifier for the gps on my car
+4639,news_query,Tin tức hiện tại hôm nay là gì ,what is the current news today
+7298,calendar_set,Vui lòng cho ăn mà tôi có cuộc họp lúc năm giờ chiều ,please feed that i have meeting at five pm
+14447,qa_factoid,Thu nhập bình quân đầu người giữa người châu Á và châu Âu là bao nhiêu ,what is the average per capita income between asia and europe people
+5598,takeaway_query,Khi nào tôi sẽ nhận được giao hàng ,when i will get the delivery
+11769,recommendation_events,Bạn có thể cho tôi biết danh sách các sự kiện cho cuối tuần này ở Pond Richry ,can you tell me list of events for this weekend in pondichery
+10222,cooking_recipe,Tờ thông tin này cung cấp các cân nhắc về cách thiết lập kinh doanh chế biến thực phẩm của bạn ,this fact sheet provides considerations for how to set up your food processing business
+11910,recommendation_events,Olly cho tôi biết về một số sự kiện tuyệt vời đang diễn ra ở đây ,olly tell me about some cool events going on here
+16497,email_sendemail,Gửi yêu cầu đến Martin ,send a request to martin
+587,news_query,TRI XUỐNG GÌ ,what is trending
+2195,alarm_set,đặt báo thức ,set an alarm
+3112,audio_volume_mute,Tắt âm thanh ,turn off the sound
+14572,qa_stock,Giá cổ phiếu của Microsoft thấp nhất hôm nay là bao nhiêu ,what is the lowest microsoft stock price today
+2186,iot_hue_lightoff,Tôi cần bạn tắt đèn giường của tôi ,i need you to turn off the light of my bed room
+5434,alarm_remove,Xóa bảy sáng báo động ,remove seven am alarm
+4534,news_query,Các tiêu đề từ LA lần là gì ,what are the headlines from the la times
+8229,calendar_query,Vị trí của cuộc họp dự án công việc của tôi là gì ,what is the location of my work project meeting
+13477,general_quirky,Tôi chỉ muốn là bạn của bạn ,i just want to be you friend
+11203,lists_remove,Xóa trái cây khỏi danh sách ,remove fruits from the list
+11167,lists_createoradd,Thêm sữa vào danh sách mua sắm của tôi ,add milk to my shopping list
+7392,calendar_query,Tôi phải làm gì vào ngày mai ,what do i have to do tomorrow
+2876,general_joke,làm tôi hạnh phúc ,make me happy
+1022,music_query,Trong tất cả âm nhạc cổ điển có bao giờ có bất kỳ ca sĩ nào ,in classic all music are there ever any singers
+13214,general_quirky,Con vật có hóa đơn vịt và đuôi Beavers là gì ,what is the animal with a duck bill and a beavers tail
+4226,play_music,Bật danh sách nhạc của tôi về nhạc đồng quê ,turn on my playlist of country music
+1199,general_joke,Nói một cái gì đó buồn cười ,say something funny
+11309,play_podcasts,Chơi podcast yêu thích của tôi ,play my favourite podcast
+5784,takeaway_order,hãy đặt cho tôi những con cá risotto từ ngã ba vàng ,order me the fish risotto from the golden fork
+14299,transport_ticket,Đọc vé cho Tesla ,read the ticket for tesla
+14099,general_quirky,Nguyên nhân gì nếu tôi có đồ ăn vặt và rượu ,what causes if i had junk food and alcohols
+11813,recommendation_locations,cho tôi biết khu mua sắm địa phương ở đâu ,tell me where the local shopping district is
+3963,alarm_query,Có báo động nào cho ngày hôm nay không ,are there any alarms for today
+10949,lists_createoradd,Danh sách tạp hóa mở và thêm sữa ,open grocery list and add milk
+894,alarm_remove,Tắt báo thức vào sáng mai ,turn off the alarm for tomorrow morning
+14691,qa_stock,giá cổ phiếu công ty intel ,intel company stock price
+16209,email_sendemail,Gửi email đến Nancy về chi tiết bên công việc của ngày mai ,send email to nancy about tomorrow's work party details
+13109,calendar_set,Hãy lên lịch một cuộc họp với thư ký của tôi ,please schedule a meeting with my secretary
+14931,general_quirky,Một hai nghìn và mười lăm fifta sẽ có giá trị bất cứ thứ gì trong ba năm ,will a two thousand and fifteen fiesta be worth anything in three years
+14968,general_quirky,Tại sao mọi người chết đói tiếp tục có con ,why do starving people keep having kids
+10899,lists_createoradd,Vui lòng thêm danh sách bạn bè để mời cho bữa tiệc ,please add list of friends to invite for the party
+3316,news_query,Tìm bài viết mới nhất từ Chris Hedges trên Truthdig ,find the latest article from chris hedges on truthdig
+893,play_music,Chơi nhạc ngay bây giờ ,play music now
+11689,recommendation_locations,Olly chỉ cho tôi nơi nhà hàng gần nhất là ,olly show me where the nearest restaurant is
+10908,lists_query,olly những gì trong danh sách của tôi ,olly what's on my lists
+12344,transport_query,Kiểm tra thời gian của tàu Kalka từ ga Jodhpur vào thứ Hai ,check time of kalka train from jodhpur station on monday
+7624,calendar_set,Nhắc tôi thanh toán hóa đơn tiền điện vào cuối tuần này lúc chín giờ sáng ,remind me to pay the electricity bill on this weekend at nine am
+15351,social_post,liên lạc với Leo ,get in touch with leo
+461,play_music,Tôi muốn nghe nhạc cổ điển ,i want to listen classical music
+9933,cooking_recipe,tìm một công thức cho một bữa tối lãng mạn cho hai người ,find a recipe for a romantic dinner for two
+7479,calendar_query,Cho tôi xem tất cả các lời nhắc về cuộc họp ,show me all meeting reminder
+17016,email_sendemail,Tôi muốn trả lời email ,i want a reply to the email
+879,datetime_query,Mấy giờ ở Miami Florida ,what time is it in miami florida
+10951,lists_createoradd,Mở lại đồ tạp hóa và thêm sữa ,reopen groceries and add milk
+2181,datetime_query,Nói cho tôi biết thời gian bây giờ ,tell me the time now
+655,weather_query,Thời tiết hiện tại ở California như thế nào ,how is the current weather in california
+10569,lists_remove,Xóa danh sách giao dịch ngân hàng ,remove the bank transaction list
+985,news_query,Tin tức hôm nay CNN ,today's news cnn
+3622,news_query,cho tôi biết những câu chuyện hàng đầu trên CNN ,tell me the top stories on cnn
+11974,recommendation_events,Có những sự kiện đặc biệt nào trong thị trấn của tôi không ,are there any special events in my town
+16504,email_query,Tôi đã nhận được bất kỳ email nào gần đây ,have i gotten any emails lately
+12762,transport_ticket,Vui lòng đặt vé tàu để ,please book a train ticket to
+5606,iot_cleaning,Làm sạch thảm ,clean the carpets
+3380,iot_cleaning,bật chân không ,turn on vacuum
+1681,audio_volume_up,Khối lượng âm nhạc sẽ tăng lên chín mươi ,the music volume should increase to ninety
+8236,calendar_set,Tôi cần một lời nhắc nhở cho ngày mai vì bữa tiệc của Joe sau khi làm việc ,i need a reminder for tomorrow for joe's party after work
+6812,calendar_set,Nhắc nhở tôi nhìn vào mì ống trong ba mươi phút ,remind me to look at the pasta in thirty minutes
+1322,weather_query,Nhận báo cáo thời tiết hôm nay ,get today's weather report
+7924,calendar_query,Cuộc họp của tôi ở đâu ,where is my meeting
+8210,calendar_query,Tôi có bất cứ ngày nào trong tuần này ,do i have any off days this week
+12815,transport_query,Hãy cho tôi chỉ đường đến địa điểm ngân hàng gần nhất của tôi ,give me directions to my nearest bank location
+14554,qa_stock,Danh sách giá cổ phiếu cho công ty này ,list stock price for this company stock
+16665,email_query,Bất kỳ email mới nào trong hộp thư đến của tôi ,any new emails in my inbox
+2997,qa_stock,Một số cập nhật về thị trường chứng khoán là gì ,what are some updates about the stock market
+2287,iot_coffee,Olly bắt đầu cà phê lúc sáu giờ sáng ,olly start coffee at six am
+5246,news_query,Thông báo cho tôi về việc phá vỡ tin tức trên CNN ,notify me of breaking news on cnn
+3696,alarm_set,Google đặt báo thức của tôi tắt trong một giờ ,google set my alarm to go off in an hour
+6527,general_quirky,Hiển thị chương trình sân khấu gần tôi ,show stage shows near me
+16618,email_sendemail,Dự thảo một email cho Kailey về công việc sau ,draft an email to kailey about work later
+14578,qa_maths,là một sự chia rẽ bởi ba ,is one divisible by three
+14364,qa_stock,Giá cổ phiếu của Nike là bao nhiêu ,what is the stock price of nike today
+9584,play_radio,xin chào ,hello hello
+11392,play_podcasts,di chuyển về phía trước đến tập tiếp theo ,move forward to the next episode
+7237,calendar_remove,Xóa chương trình hông khỏi lịch trình của tôi vào tháng Tư thứ hai ,remove the hip show from my schedule on april second
+15263,social_post,Đăng một trạng thái bằng cách sử dụng các ghi chú mới nhất tôi đã thực hiện trong notepad của tôi ,post a status using the latest notes i made in my notepad
+16522,email_addcontact,Vui lòng tạo một thông tin liên lạc mới về JO ,please create a new contact information about jo
+10604,music_query,Nói cho tôi biết bài hát bài hát ,tell me the song track
+6553,news_query,những gì đang xảy ra trong ngành công nghiệp nhạc pop ,whats happening in pop industry
+15037,qa_factoid,Olly có bao nhiêu con sông ở châu Âu ,olly how many rivers are there in europe
+2630,takeaway_order,Đặt món ăn Trung Quốc ,order chinese food
+3585,weather_query,Thời tiết ở London là gì ,what is the weather in london
+11755,recommendation_events,Olyly giới thiệu một sự kiện ban nhạc bluegrass trong vòng hai mươi dặm của Manchester MA trong tuần này ,olly recommend a blue grass band event within twenty miles of manchester ma this week
+496,iot_hue_lightchange,Thay đổi màu sáng thành màu xanh ,change the light color to blue
+3497,play_music,Chơi chỉ những bài hát của Beatles ,play only songs by the beatles please
+6232,general_quirky,Olly hôm nay tôi đã có một kỷ lục phá vỡ ,olly today i had a record breaking sale
+13529,recommendation_movies,Tôi nên xem bộ phim nào ,what movie should i go see
+1939,play_music,Mở một bài hát từ danh sách đã cho ,open a song from the given list
+5656,play_music,Chơi cho tôi âm nhạc của Michael Jackson ,play for me the music by michael jackson
+17146,email_query,bất cứ điều gì mới ,anything new
+1056,iot_cleaning,Bắt đầu máy hút bụi robot vào một giờ chiều hôm nay ,start the robot vacuum cleaner at one pm today
+5018,iot_coffee,Tôi muốn cà phê nóng ,i want hot coffee
+5962,takeaway_order,Bất kỳ cung cấp bữa ăn nhanh ,any fast food meal offers
+6706,general_quirky,trí tuệ nhân tạo có ý thức không ,does artificial intelligence have consciousness
+4370,audio_volume_up,Tăng âm lượng lên cấp bảy trên máy nghe nhạc ,raise volume to level seven on music player
+6150,play_music,Tìm nhạc jazz trên danh sách phát của tôi ,find jazz music on my playlist
+12753,transport_ticket,Tôi muốn một vé tàu từ Boston đến New York ,i want a train ticket from boston to new york
+149,music_likeness,Bài hát này rất tốt ,this song was very good
+9552,play_radio,Chơi Hiphop trong chín mươi bảy nóng ,play hiphop in hot ninety seven
+8157,calendar_query,là lễ hội bóng bay vào cuối tuần này ,is the balloon festival this weekend
+7821,calendar_remove,Xóa tất cả các lời nhắc khỏi lịch ,remove all the reminders from the calendar
+8563,calendar_remove,Xóa cuộc hẹn của tôi cho ngày mai lúc ba giờ chiều ,delete my appointment for tomorrow at three pm
+12920,transport_query,"Này, bốn chuyến tàu rời khỏi trạm lúc mấy giờ ",hey what time does the four train leave the station
+8113,calendar_set,Vui lòng đặt bữa tiệc sinh nhật của Mary vào hai mươi giây lúc bảy giờ chiều ,please put mary's birthday party on the twenty second at seven pm
+357,alarm_query,Xin vui lòng cho tôi biết báo động của tôi ,please tell me my alarms
+9910,play_audiobook,Tôi muốn bắt đầu chiến tranh và hòa bình nơi tôi rời đi ,i want to start war and peace where i left off
+9913,cooking_recipe,Những thành phần nào tôi cần cho súp cà chua ,what ingredients do i need for tomato soup
+5373,play_music,đưa lên danh sách phát cuối cùng của tôi từ Tidal ,bring up my last playlist from tidal
+9372,play_radio,Chơi trạm thể thao ,play the sports station
+16073,email_addcontact,Lưu địa chỉ email mới vào danh bạ của tôi ,save new email addresses to my contacts
+1000,iot_wemo_off,Tắt ổ cắm cắm thông minh của tôi ,turn off my smart plug socket
+7593,calendar_set,Nhắc nhở tôi tắt đèn trong mười phút ,remind me to turn off the lights in ten minutes
+11092,lists_createoradd,Bao gồm mục này ,include this item
+2904,iot_cleaning,Hãy làm sạch sàn nhà ,please clean the floor
+13321,qa_factoid,Có bao nhiêu mặt trên một hình ngũ giác ,how many sides are on a pentagon
+5685,play_music,Chơi mục One. ,play item one
+9027,calendar_set,Thêm vào lịch một cuộc hẹn y tế cho ngày đầu tiên của năm tháng tới ,add to calendar an medical appointment for the first day of the next five months
+1942,iot_cleaning,Kích hoạt máy hút bụi ,activate vacuum cleaner
+7572,calendar_set,nhắc nhở tôi khi tôi đến ,remind me when i reach
+7566,calendar_set,Nhắc nhở mới nhất về cuộc họp ,latest reminder about meeting
+267,iot_hue_lighton,Nó thật tuyệt vời ở đây ,it's awfully dark here
+13773,qa_definition,Xác định và mô tả một tia cực tím ,define and describe an ultraviolet ray
+5916,iot_coffee,Bắt đầu cappuccino cho tôi bây giờ ,start cappuccino for me now
+3748,news_query,Giữ cho tôi cập nhật trên tin tức bão mới nhất ,keep me updated on the latest storm news
+16905,email_sendemail,Gửi email cho gia đình tôi nói với họ về các kế hoạch sinh nhật sắp tới của tôi ,send an email to my family telling them about my upcoming birthday plans
+12949,qa_factoid,Botswana ở đâu ,where is botswana
+9161,calendar_query,Tôi có một cuộc hẹn cho tháng 1 thứ ba không ,do i have an appointment for january the third
+14649,cooking_recipe,Cách nấu ăn ,how to cook
+948,music_likeness,tôi thích bài hát nền ,i like the background song
+2613,datetime_query,hôm nay là thứ tư hoặc thứ năm ,is today the fourth or the fifth
+5484,weather_query,nó quá nóng cho quần ,is it too hot for pants
+9607,play_radio,Chơi các chương trình này trong Pad này ,play this programmes in this pad's
+7018,calendar_remove,Xóa đêm giao thừa từ lịch ,delete new year's eve from the calendar
+16403,sendemail,Người nhận email mới Donna Bạn có kế hoạch cho ngày hôm nay ,new email recipient donna do you have plans for today
+1926,iot_cleaning,Bắt đầu vận hành máy hút bụi robot ,initiate to operate robot vacuum cleaner
+4149,iot_hue_lightup,Vui lòng bật đèn trong căn phòng này ,please turn up the lights in this room
+4571,iot_wemo_off,Phích cắm WEMO nên được tắt trên ,the wemo plug should be turned off on
+3106,weather_query,thời tiết hôm nay như thế nào ,what's the weather like today
+13541,iot_wemo_on,Bắt đầu giặt ủi ,start the laundry
+7214,calendar_set,Thái độ ,attitude
+16536,email_sendemail,Gửi email đến người giám sát của tôi ,send an email to my supervisor
+16950,email_sendemail,Email mới để liên lạc ,new email for contact
+7940,calendar_query,Cuộc hẹn tiếp theo của tôi là gì ,what's my next appointment
+14066,qa_factoid,Madonna cao bao nhiêu ,how tall is madonna
+7856,calendar_set,Đặt một cuộc họp với Cục nhân sự vào cuối tháng ,set a meeting with the hr department for the end of the month
+9336,play_radio,Chơi nóng chín mươi bảy ,play hot ninety seven
+8335,calendar_remove,Tôi không muốn bất kỳ sự kiện nào được liệt kê trên lịch ,i don't want any events listed on the calendar
+13402,takeaway_order,"Khi tôi về nhà, bạn có thể đặt hàng pizza không ",when i get home can you please order a pizza
+15772,email_querycontact,Số của anh ấy là bao nhiêu ,what's his number
+9854,play_audiobook,Tiếp tục phát lại âm thanh của Twilight ,resume audio playback of twilight
+11163,lists_remove,bãi bỏ một mục từ danh sách ,abolish an item from list
+11090,lists_createoradd,Làm mới danh sách bằng một cái mới ,refresh the list with new one
+13678,qa_currency,Những gì đáng giá hơn một u. S. d. hoặc aus. ,what is worth more a u. s. d. or aus
+7408,calendar_set,Đặt một sự kiện Chúc mừng sinh nhật John để lặp lại vào hai mươi mốt ngày một tháng một và mười bảy ,set an event happy birthday john to repeat on twenty one january two thousand and seventeen
+6088,weather_query,Có phải là Sunny vào tuần tới vào thứ ba ,is it going to be sunny next week on tuesday
+14632,general_quirky,mục đích của cuộc sống là gì ,what is the purpose of life
+1944,iot_hue_lightoff,chuyển ánh sáng tắt ,shift the light off
+14052,qa_definition,Người nhập cư là gì ,what is immigrant
+13205,qa_definition,người nào ,someone
+8423,calendar_set,Thiết lập một sự kiện định kỳ trong suốt cả tháng ,set up an event recurring throughout the month
+6021,general_joke,trò đùa mới nhất là gì ,what's the latest joke
+7931,calendar_set,Nhắc nhở tôi về khám mắt của tôi tại Walmart vào ngày hai mươi sáu ,remind me about my eye exam at walmart on the twenty sixth
+10241,cooking_recipe,Olly cắt thịt bò ngon nhất là gì ,olly what is the best tasting cut of beef
+14899,qa_stock,Starbucks là starbucks lên hoặc xuống từ quý trước ,is starbucks stock up or down from last quarter
+3209,news_query,tìm kiếm những thứ mới trên chủ đề đó ,search for new stuff on that subject
+4655,alarm_set,Đặt báo thức trong một giờ kể từ bây giờ ,set alarm for one hour from now
+2815,iot_hue_lightchange,Biến đèn phòng khách lên một phần trăm ,turn the living room lights to one percent
+596,play_music,Bạn có thể bật bài hát hit của Lady Gaga không ,can you turn on the hit song of lady gaga
+9883,play_audiobook,Quay trở lại loạt Midnight ,go back to the midnight series
+4901,audio_volume_down,Quay xuống khối lượng phương tiện ,turn down media volume
+8742,calendar_query,Tôi đã lên kế hoạch gì vào thứ Hai tới từ trưa đến ba ,what do i have planned next monday from noon to three
+11595,recommendation_events,Địa điểm sự kiện ở đâu ,where is the event venue
+5024,iot_hue_lightchange,làm cho căn phòng màu xanh ,make the room blue
+11216,lists_query,Nêu danh sách tôi có ,state the list i have
+567,weather_query,nó ấm như thế nào ,how warm is it
+11278,play_podcasts,lấy cho tôi tập phim mới nhất của podcast bạn bè ,get me the latest episode of the friends podcast
+3958,datetime_query,bao nhiêu giờ phía trước là nyc ,how many hours ahead is nyc
+8243,calendar_set,Tôi muốn tham dự nhà thờ mỗi Chủ nhật lúc mười một sáng ,i would like to attend church every sunday at eleven am
+6002,iot_coffee,đi và làm cho tôi một ly cà phê ,go and make me a coffee
+10402,play_game,Chơi trận bóng đá cho chính mình bây giờ ,play football match for myself now
+7434,calendar_remove,Xóa sự kiện tiếp theo trên lịch của tôi ,remove the next event on my calendar
+17149,email_sendemail,Tôi muốn kiểm tra ngày có sẵn của Julia vì vậy bạn sẽ gửi thư của cô ấy và hỏi về nó ,i want to check julia's available dates so would you send her mail and ask about it
+3853,audio_volume_mute,Làm ơn tắt âm thanh ,sound off please
+4467,alarm_query,Tại thời điểm nào là bộ báo động của tôi ,at what time is my alarm set
+12083,recommendation_events,Tìm các sự kiện ,find the events
+7438,calendar_query,Tôi muốn biết chi tiết lịch trình tiếp theo của tôi ,i would like to know my next schedule details
+2054,iot_cleaning,Có phòng của tôi dọn dẹp nhà cửa ,have my iroomba clean the house
+108,play_music,Chơi một bài hát tôi thích ,play a song i like
+16844,email_query,Mở hộp thư đến ,open inbox
+2700,music,Chơi nhạc rock ,play rock music
+4828,takeaway_query,nhà hàng có takeaway không ,does restaurant have takeaway
+15001,qa_factoid,Có đúng là châu Á chỉ có hai quốc gia ,is it true that asia has only two countries
+1284,datetime_convert,Thay đổi thời gian này đến ist ,change this time to ist
+4364,datetime_query,Thời gian ở Bangalore là gì ,what is the time in bangalore
+3552,play_music,Vui lòng chơi danh sách bài tập ,please play workout playlist
+11025,lists_remove,Xóa danh sách mua sắm ,erase shopping list
+10847,lists_remove,Xóa một danh sách xin vui lòng ,remove a list please
+1713,music_likeness,Tải xuống và lưu bài hát của phim Dangal ,download and save song of dangal movie
+14446,qa_factoid,lục địa nào có sự tăng trưởng cao nhất của bông và sản xuất trung bình là bao nhiêu ,which continent has highest growth of cotton and what is average production
+2803,iot_hue_lightdim,làm mờ đèn xuống một chút ,dim the lights down a bit
+6705,general_quirky,Nguồn gốc của vũ trụ ,the origins of the universe
+13561,qa_definition,Xác định tình yêu ,define love
+9789,play_audiobook,Tiếp tục audiobook chơi cuối cùng ,resume the last played audiobook
+5073,alarm_set,Xin vui lòng sáu giờ sáng ,six am alarm please
+79,music_likeness,Đây là một trong những bài hát hay nhất cho tôi ,this is one of the best songs for me
+4984,datetime_query,Xin vui lòng cho tôi biết ngày ,please tell me the date
+8970,calendar_remove,Xóa tất cả lịch hòa nhạc ,clear all concert schedule
+3480,play_music,Chơi những cú đánh tốt nhất từ nghệ sĩ nhất định ,play best hits from given artist
+5689,news_query,Hãy để tôi xem mới nhất trong tin tức ,let me see the latest in the news
+12928,transport_query,Tính thời gian di chuyển nếu tôi đến Orlando bằng tàu hỏa ,calculate the travel time if i go to orlando by train
+2143,news_query,Google News. ,google news
+6879,calendar_query,Cuộc họp của tôi vào thứ năm mấy giờ ,what time is my meeting on thursday
+1869,datetime_query,hôm nay là ngày mấy ,what date is today
+15479,general_quirky,bạn đã giải quyết ,did you resolve
+10814,lists_createoradd,Thêm mua sắm hàng tạp hóa vào danh sách để làm của tôi ,add grocery shopping to my to do list
+11179,lists_createoradd,Tạo một danh sách các cuốn sách được đặt hàng ,create a list of books to be ordered
+7521,calendar_set,Nói cho tôi mỗi ngày để uống trà xanh lúc bốn giờ chiều ,tell me every day to take green tea at four pm
+8801,calendar_query,Hãy cho tôi biết những gì nhắc nhở tôi có cho ngày hôm nay ,tell me what reminders i have for today
+5110,play_music,bắt đầu chơi to suy nghĩ ,start playing thinking out loud now
+4563,datetime_convert,Bạn có thể thay đổi múi giờ của mình đến trung tâm ,can you change my time zone to central
+14577,qa_maths,căn bậc hai của chín mươi bảy là gì ,what is the square root of ninety seven
+1167,iot_coffee,Tôi muốn một espresso ,i'd like an espresso
+1366,audio_volume_up,Di chuyển âm lượng lên một chút ,move the volume up a little
+4246,iot_hue_lightchange,olly thay đổi tất cả ánh sáng sang màu xanh ,olly change all lights to blue
+1984,news_query,cho tôi biết kết quả bầu cử đã đến ngày hôm nay ,tell me the election result of up which was to come today
+12502,transport_traffic,giao thông nặng trên tuyến tám mươi ngày nay ,is traffic heavy on route eighty today
+3596,general_greet,mọi thứ như thế nào ,how is everything
+7126,calendar_set,Nhắc nhở tôi gửi bài thuyết trình ngay hôm nay lúc một giờ chiều ,remind me to send the presentation today at one pm
+4886,music_likeness,Lưu ý kiến rằng tôi vừa đăng lên bài hát này ,save the opinion that i just posted to this song
+14089,qa_stock,Tỷ lệ cổ phiếu của Facebook ,stock rate of facebook
+10028,cooking_recipe,Tìm một công thức sử dụng thịt bò xay và zucchini ,find a recipe that uses ground beef and zucchini
+9159,calendar_set,Olly tạo một sự kiện trong lịch của tôi ,olly create an event in my calendar
+2503,iot_wemo_off,Bạn có thể tắt ổ cắm thông minh không ,can you turn off the smart socket
+2788,play_music,Chơi một cái gì đó bằng cách sử dụng ,play something by the used
+16106,email_querycontact,Chọn số liên lạc ,select the contact
+7506,calendar_query,Chỉ cho tôi các sự kiện trong tương lai ,show me future events
+14232,qa_definition,googleplex là gì ,what is a googleplex
+12234,transport_ticket,Đặt một chỗ ngồi hạng thương gia trên chuyến tàu tiếp theo đến thành phố New York ,book a business class seat on the next train to new york city
+40,general_quirky,Kiểm tra trạng thái sử dụng điện của tôi ,check the status of my power usage
+15365,social_post,Gửi một khiếu nại tới Sony về TV này bỏ việc ,send a complaint to sony about this tv that quit working
+12093,recommendation_locations,Có thẩm mỹ viện nào ở Babaji Nagar không ,is there any salon in babaji nagar
+1455,query,thời tiết ,weather
+1656,alarm_query,Chỉ cho tôi tất cả các báo động theo lịch trình ,show me all scheduled alarms
+7577,alarm_set,lặp lại báo động ,repeat alarm
+11637,recommendation_movies,cho tôi biết bộ phim với xếp hạng IMDB tốt nhất đang diễn ra ở rạp gần tôi ,tell me the movie with best imdb ratings going on in theatres near me
+13376,general_quirky,"Nếu bạn đặt Velociraptor và một con hà mã với nhau, điều gì sẽ xảy ra ",if you put a velociraptor and a hippo together what would happen
+9181,calendar_remove,Xóa lời nhắc sinh nhật của tôi cho tuần tới ,delete my birthday reminder for next week
+16967,email_query,Tìm kiếm email của tôi với chủ đề bao gồm giờ làm việc ,search my emails with subject including work hours
+2574,play_music,Chơi bài hát Celine Dion từ bộ phim Titanic ,play the celine dion song from the titanic movie
+5353,datetime_query,Thời gian ở Dubai là gì ,whats the time in dubai
+11121,lists_remove,Tôi không cần táo xóa nó khỏi danh sách mua sắm của tôi ,i don't need apples remove it from my shopping list
+3490,play_music,Chơi bài hát của Beatles ,play songs by the beatles please
+15246,social_post,xin vui lòng gửi rất chán lên facebook ,please post so bored to facebook
+9277,play_radio,Bắt đầu radio và đi đến tần số trên một nghìn và bốn mươi tám ,start radio and go to frequency on one thousand and forty eight
+16900,email_query,Tôi đã nhận được bất kỳ email nào từ mẹ tôi ,have i received any emails from my mother
+12072,recommendation_events,Liệt kê các sự kiện đang diễn ra gần tôi ,list ongoing events near me
+6484,general_quirky,Olly tôi đã làm việc ngày hôm nay ,olly i worked today
+15176,social_query,Hãy cho tôi biết nếu tôi nhận được một tin nhắn cá nhân mới từ Martha trên Facebook ngay hôm nay ,let me know if i get a new personal message from martha on facebook today
+9740,play_audiobook,Tiếp tục phát lại Audiobook. ,resume audiobook playback
+15343,social_query,Cho tôi xem chồng của tôi Bài viết Facebook ngày hôm nay ,show me my husbands facebook posts today
+13932,qa_stock,Giá cổ phiếu của Amazon là bao nhiêu ,what is the stock price of amazon
+7010,calendar_set,Gửi một cuộc hẹn lịch đến tháng 1 ,send a calendar appointment to jan
+4727,qa_stock,Đặt thông báo cho tin tức trên thị trường chứng khoán ,set notification for news on the stock market
+14244,general_quirky,Làm thế nào để bạn làm thép ,how do you make steel
+12024,recommendation_events,Những sự kiện nào được lên kế hoạch cho cuối tuần này trong khu vực tôi ,what events are scheduled for this weekend in me area
+6384,general_quirky,Hôm nay mọi việc thế nào ,how is your day going
+12155,transport_ticket,Đặt vé để đi đến đích bằng tàu hỏa ,reserve a ticket to go to destination by train
+3325,iot_wemo_on,bạn có thể vui lòng bật phích cắm ,could you please turn on the plug
+4701,audio_volume_up,bật âm thanh của tôi ,unmute my sound
+7733,alarm_set,đánh thức tôi dậy mỗi ngày trong tuần lúc bảy giờ sáng ,wake me up every weekday at seven am
+8523,calendar_set,Tạo một sự kiện mới trên lịch của tôi ,create a new event on my calendar
+10009,cooking_recipe,Công thức cho bữa ăn ,recipe for meal
+14420,qa_stock,Là Warren Buffet đang đầu tư vào cổ phiếu niêm yết của tôi ,is warren buffet is investing in my listed stocks
+4471,weather_query,Trả lời email từ ,answer email from
+9749,play_audiobook,sử dụng Remote. ,using remote
+3764,alarm_set,Đặt báo thức cho chín giờ sáng ,set alarm for nine am
+4663,music_query,Xin vui lòng cho tôi biết tên của ban nhạc này ,please tell me the name of this band
+13169,recommendation_locations,Những cửa hàng có rump ba pound rẻ nhất ,which store's got the cheapest three pound beef rump
+16449,email_sendemail,Tôi cần chỉnh sửa địa chỉ email của Marie Jones để đọc ,i need to edit marie jones email address to read
+3869,alarm_query,là báo động đến bộ backdoor và sẵn sàng để đi ,is the alarm to the backdoor set and ready to go
+15352,social_post,xin vui lòng tweet rằng tã của tôi đang sụp đổ với pampers ,please tweet that my diapers are falling apart to pampers
+7839,calendar_query,Các sự kiện xảy ra giữa tám giờ sáng đến năm giờ chiều hôm nay ,events happening between eight am and five pm today
+12519,transport_query,Bao nhiêu thời gian là một chuyến tàu đến đó ,how much time is a train to there
+7192,calendar_set,Đặt một lời nhắc nhở cho chúc một người bạn vào ngày mai lúc mười giờ sáng ,set a reminder for wishing a friend tomorrow at ten am
+3359,news_query,Cập nhật cho tôi về cuộc biểu tình trên đá đứng ,update me on the standing rock protest
+6307,general_quirky,Bạn muốn biết ngày của tôi đã đi như thế nào ,you want to know how my day went
+257,play_music,Olly phát nhạc từ nghệ sĩ piano yêu thích của tôi ,olly play music from my favorite pianist
+2189,iot_wemo_off,Tắt phích cắm Wemo của tôi ,turn off my wemo plug
+8246,calendar_query,cho tôi thông tin về trận đấu cricket ngày nay ,give me the information of today's cricket match
+2039,weather_query,Hôm nay thật dễ chịu ,it's pleasant today
+3251,takeaway_order,Tôi đang đói cho tôi thấy một số thực phẩm mang đi ,i'm hungry show me some takeaway food
+11532,play_podcasts,Chơi tập tiếp theo của Drunks và Dragons xin vui lòng ,play the next episode of drunks and dragons please
+7941,calendar_query,Olly nói với tôi những gì đang xảy ra vào ngày mai ,olly tell me what's going on tomorrow
+1089,iot_hue_lightup,Làm ơn bật đèn lên ,turn up the lights please
+7954,calendar_remove,Bạn có thể vui lòng bỏ qua bữa tiệc mà tôi sẽ sẽ đến cuối tuần này trên lịch của tôi ,can you please disregard the party that i will be going to this weekend on my calendar
+10306,play_game,Chơi Scrabble với tôi ,play scabble with me
+6844,calendar_set,Đặt lời nhắc cho trò chơi tennis với Peter vào Chủ nhật lúc bốn giờ chiều ,set reminder for tennis game with peter on sunday at four pm
+13454,general_quirky,Đã bao nhiêu lần rồi ,how many times does it go
+7639,calendar_set,Thêm cắt tóc vào các cuộc hẹn của tôi vào chiều thứ bảy lúc bốn giờ ,add haircut to my appointments on saturday afternoon at four
+4005,iot_hue_lightup,Nuôi đèn phòng khách một nửa ,raise living room lights half way
+4102,news_query,Tin tức thế giới mới nhất ,newest world news
+2130,iot_hue_lightup,một chút sáng hơn cảm ơn ,a little brighter thanks
+13143,qa_factoid,Napoleon đồi là ai ,who is napoleon hill
+12916,transport_taxi,Đặt cho tôi một chiếc taxi cho một giờ chiều ,book me a taxi for one pm
+8542,calendar_query,Cuộc hẹn của tôi ngày hôm nay là gì ,what are my appointments today
+12060,recommendation_locations,Tôi muốn đi mua sắm giá rẻ có cửa hàng đô la nào gần đó không ,i wish to go for cheap shopping is there any dollars shop nearby
+1415,takeaway_order,Tôi muốn đặt một ít thức ăn ,i want to order some food
+15811,email_query,Olly cho tôi biết nếu tôi nhận được một thông điệp về bữa tiệc từ Jane ,olly let me know if i get a message about the party from jane
+1472,audio_volume_down,giảm âm lượng lên hai mươi ,lower the volume to twenty
+753,audio_volume_mute,Đừng nói một lúc ,don't speak for a while
+2519,iot_cleaning,Tôi muốn bật máy hút bụi robot ,i want to turn on the robot vacuum cleaner
+5395,iot_wemo_off,Ổ cắm tắt ,socket off
+6658,calendar_query,Tôi có một cuộc hẹn với bác sĩ vào hai giờ chiều ngày hôm nay ,i have a doctor's appointment at two pm today
+3075,audio_volume_mute,tắt tiếng âm thanh. ,mute the sound
+116,music_query,những gì đang chơi ,whats playing
+1735,play_music,Tôi muốn nghe nhạc đồng quê ,i want to hear country music
+3491,play_music,Hãy chơi một lần nữa ,let's play that song again
+14140,general_quirky,vừa phải ,moderate
+14160,qa_factoid,Quốc gia nào có nhiều dân số nhất ,what country has the most population
+4940,datetime_query,Tôi có thể lấy thời gian hiện tại không ,can i get the current time
+15232,social_post,Bài hát nghe của Arijit Singh Đăng nó trên tài khoản Facebook của tôi ,listening song of arijit singh post it on my facebook account
+5271,news_query,Tin tức tài chính mới nhất ,latest finance news
+6454,general_quirky,những đặc điểm nào sẽ là một hàng tồn kho đạo đức ,what traits would be on a moral inventory
+4709,datetime_query,Ngày nào là lễ Phục sinh vào Chủ nhật năm nay ,what date is easter sunday this year
+15006,qa_maths,giải pháp ,solution
+7498,calendar_query,là trên lịch cho ngày hai tháng 7 ,is the on the calendar for july two
+7951,calendar_query,những gì đang diễn ra từ ba trăm ba mươi bốn mươi bốn ,what's going on between three hundred and thirty and four
+12942,general_quirky,Giải thích cho tôi ,explain it to me
+7153,calendar_query,là lịch của tôi miễn phí trong bốn giờ chiều ngày hôm nay ,is my calendar free for four pm today
+8849,calendar_query,Có một bữa tiệc sinh nhật ngày hôm nay ,is there a birthday party today
+14167,qa_factoid,Thông tin về Rowan Atkinson. ,rowan atkinson info
+34,play_music,Tôi muốn nghe bài hát arijit singh một lần nữa ,i want to listen arijit singh song once again
+4849,alarm_set,Đặt báo thức trong tám giờ chiều ,set an alarm for eight pm
+1891,weather_query,thời tiết hôm nay thế nào ,how the weather today
+11475,play_podcasts,Chơi podcast tiếp theo ,play the next podcast
+15709,social_post,Tweet phàn nàn về dịch vụ a ,tweet complain about service a
+5975,datetime_query,bạn có thể cho tôi biết ngày hôm nay là gì ,could you tell me what today's date is
+14004,qa_stock,giúp tôi một mức giá cổ phiếu của audi ,get me a stock price of audi
+7704,calendar_set,hey bật lời nhắc nhở của bạn cho cuộc họp ngày mai lúc mười giờ sáng ,hey turn on your reminders for tomorrow's meeting at ten am
+4234,play_music,Chơi bài hát yêu thích của tôi bởi London Grammar ,play my favorite song by london grammar
+1395,datetime_query,Bao nhiêu trong đồng hồ ,how much in the clock
+8793,calendar_query,Kiểm tra lịch. ,check calendar
+6838,calendar_set,nhắc nhở tôi về sinh nhật của Mike ,remind me about mike's birthdays
+6463,news_query,Tôi muốn chủ đề về tin đồn nổi tiếng ,i want topics on celebrity gossip
+10671,lists_remove,Xóa danh sách các ứng dụng bắt đầu bằng chữ A ,remove the list of apps which started with letter a
+6518,general_quirky,Công việc hút ngày hôm nay ,work sucked today
+8071,datetime_query,là hai mươi giây một thứ ba ,is the twenty second a tuesday
+15864,email_querycontact,Alex được lưu trong danh sách liên lạc của tôi không ,is alex saved in my contacts list
+14459,qa_definition,Hãy mô tả chiếc xe đạp đường phố Harley Davidson mới ,please describe the new harley davidson street bike
+13094,qa_definition,Phiên có nghĩa là gì ,what does session mean
+9093,calendar_remove,Xóa tất cả các sự kiện trong Lịch cho tháng 3 ,clear all events in calendar for march
+7816,recommendation_events,Chỉ cho tôi các sự kiện sắp tới trong các thành phố Quad ,show me upcoming events in the quad cities
+12297,transport_taxi,Mưa đá ,hail taxi
+3143,music_likeness,Đây là một bài hát năm sao ,this is a five star song
+4372,play_music,Tôi muốn nghe bài hát yêu thích của tôi ,i want to hear my favorite song
+2475,play_music,Chơi nhạc chỉ cổ điển ,play music that are classical only
+4324,play_music,Chơi Mocking Bird của Eminem ,play mocking bird by eminem
+7677,calendar_query,Nói thêm về sự kiện này ,tell more about this event
+10765,lists_query,Kéo lên danh sách mua sắm ,pull up the shopping list
+69,music_likeness,tôi thích nhạc rock ,i like rock music
+15730,social_query,Nói cho tôi biết nếu bất cứ điều gì quan trọng đang xảy ra trên phương tiện truyền thông xã hội ngày hôm nay ,tell me if anything important is happening on social media today
+9131,calendar_query,cho tôi biết những sự kiện tiếp theo của tôi là gì ,tell me what my next events are
+3634,play_music,Chơi được cảnh báo bởi Tech N9NE ,play be warned by tech n9ne
+11757,recommendation_events,Olyly giới thiệu một sự kiện nếm rượu vang vào cuối tuần này ở Chicago ,olly recommend a wine tasting event this weekend in chicago
+9598,play_radio,Alexa chơi PDR trên đài phát thanh AM Band ,alexa play pdr on the am band radio
+16258,email_sendemail,Vui lòng gửi email cho vợ về thời tiết tuần sau ,please email to my wife about next week weather
+1659,iot_cleaning,Đi gần máy hút bụi ,go near vacuum cleaner
+458,audio_volume_up,bạn có thể nói một chút to hơn ,can you speak a little louder
+260,audio_volume_up,Tôi hầu như không thể nghe thấy bạn olly ,i can barely hear you olly
+10953,lists_remove,Loại bỏ danh sách Kickball nhưng đảm bảo các liên hệ vẫn còn ,eliminate the list kickball but make sure the contacts remain
+2661,iot_hue_lightoff,Tắt đèn bếp ,turn off the kitchen lights
+10010,cooking_recipe,Làm thế nào tôi có thể nấu bữa ăn ,how can i cook meal
+16369,email_query,bất kỳ email mới nào từ Derek ,any new emails from derek
+14310,qa_definition,Điều gì làm cho một cái gì đó đầu phô mai ,what makes something head cheese
+16136,email_query,Kiểm tra email và chủ đề mới nhất là gì ,check email and what is the latest subject
+13257,recommendation_locations,Mua máy ảnh Canon ở đâu ,where to buy cannon cameras
+16740,email_query,Những email tôi đã nhận được từ đêm qua ,what emails have i gotten since last night
+10649,lists_createoradd,Thêm rượu vào danh sách ,add wine to list
+15165,social_post,Đăng doanh nghiệp của tôi trên tất cả các trang web truyền thông xã hội của tôi ,post my business on all my social media sites
+10030,cooking_recipe,Tôi cần một công thức puttanesca đã có niên đại một nghìn chín trăm bảy mươi ,i need a puttanesca recipe that pre dates one thousand nine hundred and seventy
+1274,calendar_query,Bạn có thể xác nhận rằng cuộc họp của tôi cho ngày mai đã bị hủy bỏ ,can you confirm that my meeting for tomorrow has been cancelled
+8080,calendar_query,Tôi có cuộc hẹn vào ngày mai không ,do i have any appointments tomorrow
+7236,calendar_remove,Vui lòng xóa cuộc hẹn vào tháng Tư đầu tiên ,please remove the appointment on april first
+8348,calendar_query,cho tôi biết những gì đang xảy ra vào thứ năm tới ,tell me what's happening next thursday
+8231,calendar_remove,Xóa cuộc hẹn tại thời điểm ,delete appointment at time
+12574,transport_ticket,Đặt vé cho Paris bằng tàu hỏa ,book ticket for paris by train
+10619,lists_createoradd,Tôi muốn bắt đầu một danh sách mới các công cụ điện được bán theo giá trị thực ,i want to start a new list of power tools on sale at true value
+10014,cooking_recipe,Tôi muốn biết thủ tục làm Thổ Nhĩ Kỳ Lễ Tạ ơn trong năm câu ,i want to know the procedure of making thanksgiving turkey in five sentences
+3866,news_query,Bạn có thể đưa tôi tin tức từ thời NY ,can you get me news from ny times
+7537,calendar_set,Vui lòng thiết lập một cuộc họp với Becky lúc ba giờ chiều vào thứ ba ,please set up a meeting with becky at three pm on tuesday
+2948,music_likeness,Vui lòng lưu bài hát hiện tại để yêu thích ,please save the current song to favorites
+15424,social_query,Câu chuyện phổ biến nhất trên New Facebook của tôi là gì ,what's the most popular story on my facebook newsfeed
+5803,iot_hue_lightup,Thêm ánh sáng ,more light
+8588,calendar_set,Lên lịch một cuộc họp với RI vào tháng Tư đầu tiên lúc mười giờ sáng ,schedule a meeting with ri on april first at ten am
+12678,transport_query,Có bất kỳ chuyến đi nào đến vị trí được cung cấp bởi tàu ,are there any trips to location a provided by the train
+9122,calendar_set,Bạn có thể thêm cuộc họp kinh doanh của mình vào lịch làm việc không ,can you add my business meeting to the work calendar
+11495,play_podcasts,Chơi Shane Dawson Podcast ,play shane dawson podcast
+2535,play_music,Mở Spotify và chơi danh sách năm ,open spotify and play list five
+16412,email_query,Kéo hết email gửi cho tôi từ Amazon ,pull up all emails sent to me from amazon
+5947,play_music,Hãy để tôi nghe danh sách phát yêu thích số một của tôi ,let me hear my number one favorite play list
+11049,lists_query,Tôi có thể có danh sách của tôi không ,can i have my list
+9125,calendar_query,Khi nào là cuộc hẹn nha sĩ tiếp theo của tôi ,when is my next dentist appointment
+1035,play_music,Chơi cho tôi bài hát mới nhất của Adele ,play me the latest song of adele
+11447,play_podcasts,Đi đến tập thứ ba của podcast này ,go to the third episode of this podcast
+6853,calendar_remove,Chuyển đến sự kiện tiếp theo trong lịch và xóa nó ,go to the next event in the calendar and delete it
+1130,weather_query,Hôm nay trời sẽ mưa đến hôm nay ,is it going to rain later today
+14785,qa_factoid,khoảng cách đến mặt trăng là bao nhiêu ,what is the distance to the moon
+75,music_query,Ai là tác giả của âm nhạc hiện tại ,who's current music's author
+17086,email_sendemail,Trả lời cái này xin vui lòng ,reply to this please
+11996,recommendation_locations,Vui lòng cho tôi tất cả các tên cửa hàng trong một bán kính hai dặm ,please give me all shop names in a two mile radius
+10044,cooking_recipe,Làm thế nào để tôi thực hiện cá ngừ từ đầu ,how do i make tuna casserole from scratch
+2586,music_likeness,Vui lòng lưu kênh này trên Pandora ,save this channel on pandora please
+6681,news_query,tin tức hàng đầu ,top news
+2067,news_query,Có ai cũng chiến thắng xổ số Powerball ngày hôm qua ,did anyone win the powerball lottery yesterday
+7645,calendar_set,Nhắc nhở các sự kiện sắp tới ,remind upcoming event's
+10007,cooking_recipe,olly cho thấy phương pháp để chuẩn bị kem ,olly show the method to prepare icecream
+4801,weather_query,nhiệt độ hiện tại bên ngoài là gì ,what's the current temperature outside
+5972,alarm_remove,bạn có thể vui lòng loại bỏ bộ báo động trong khoảng từ tám đến chín ,could you please remove the set of alarms between eight and nine
+3794,audio_volume_mute,Tôi muốn tắt tiếng loa ,i want to mute the speaker
+5545,general_quirky,Tình yêu để Jake ủng hộ tài chính ,love to jake for financial support
+12925,transport_query,"Này, chuyến tàu tiếp theo sẽ khởi hành lúc mấy giờ ",hey what time does the next train depart
+9207,play_radio,Bật Đài phát thanh Olly ,turn on the radio olly
+1330,music_query,tên của bài hát này là gì ,what's the name of this song
+4469,query,Tôi sẽ cần một chiếc áo khoác ngày hôm nay ,will i need a jacket today
+17117,email_query,Có bất kỳ email gần đây ,are there any recent emails
+7614,calendar_query,Nói cho tôi biết các sự kiện sắp diễn ra ,tell me upcoming event's
+1131,weather_query,cho tôi biết mức độ độ ẩm trung tâm thành phố ngày hôm nay ,tell me the humidity level downtown today
+9017,calendar_remove,Lịch xóa tất cả ,calendar erase all
+13571,qa_definition,Pesto có nghĩa là gì ,what does pesto mean
+8317,calendar_set,Thứ năm tháng 3 là sinh nhật của John xin vui lòng đặt nó trên lịch ,march fifth is john's birthday please place this on the calendar
+1918,weather_query,Thời tiết trong bảy ngày tiếp theo là gì ,what is the weather for the next seven days
+3147,play_music,Chơi David Bowie. ,play david bowie
+16596,email_query,Tôi cần kiểm tra email của jack hôm nay ,i need to check today's email of jack
+4642,iot_hue_lightchange,Có chuyện gì với ánh sáng màu vàng này có được một số màu trắng ở đây ,what's up with this yellow light get some white up in here
+1936,weather_query,Có mưa ở Boston không ,is it raining in boston
+5998,datetime_convert,"Nếu đó là sáu giờ sáng, mấy giờ ở Tokyo ",if it is six am here what time is it in tokyo
+7650,calendar_set,Đặt thông báo trước sự kiện này ,set notification before this event
+6601,general_quirky,chi phí ,expenses
+11016,lists_query,Danh sách để làm gì cho ngày hôm nay ,what's my to do list for today
+8702,calendar_set,Thêm sự kiện cho ngày và giờ với những người này ,add event for date and time with these people
+10840,lists_query,danh sách hiện tại tôi có là gì ,what are the current lists i have
+4218,weather_query,Tôi có nên mặc galoshes ngày hôm nay ,should i wear galoshes today
+16675,email_sendemail,Email joejoe @ gmail dot com ,email joejoe@gmail dot com
+14725,qa_definition,Mô tả tai nghe ,describe headset
+6028,play_music,Chơi những bản hit tốt nhất ,play best hits
+11028,createoradd,chỉnh sửa danh sách ,edit list
+12362,general_quirky,Tôi sẽ đến văn phòng của tôi ,i'll be going to my office
+11816,recommendation_locations,Tôi có thể mua sắm ở đâu như một du khách địa phương Olly ,where can i shop as a local tourist olly
+1463,news_query,Thông báo cho tôi với các cập nhật tin tức trên Nigeria ,notify me with news updates on nigeria
+16562,email_query,Alexa kiểm tra email của tôi ,alexa check my email
+14629,qa_factoid,Địa lý Melbourne. ,geography melbourne
+5485,datetime_query,Bao nhiêu giờ còn lại để đến nửa đêm trong thành phố ,how many hours remaining to reach midnight in city
+8881,alarm_set,Lên lịch báo động cho cuộc hẹn nha sĩ tuần tới ,schedule an alarm for next week's dentist appointment
+1298,audio_volume_up,olly to hơn ,olly louder
+2607,datetime_query,hôm nay là ngày sáu tháng sáu ,is today march sixth
+10660,lists_remove,Xóa mục bốn. ,remove item four
+14002,qa_stock,giá cổ phiếu honda. ,honda stock price
+8772,calendar_remove,Xóa chuyến đi dự kiến thứ tư tháng 7 ,delete trip scheduled july fourth
+4264,general_joke,Bạn biết bao nhiêu câu chuyện cười ,how many jokes do you know
+4489,alarm_set,đánh thức tôi dậy lúc tám giờ ,wake me up at eight o'clock
+3452,news_query,là Fox News báo cáo bất kỳ tin tức đột nhập tại thời điểm này ,is fox news reporting any breaking news at this time
+2926,takeaway_order,Đặt hàng Yo lấy ra từ Deli của Jason trên Sixth Ave ,yo order take out from jason's deli on sixth ave
+10594,lists_createoradd,Tôi muốn có một danh sách nhạc mới của các bài hát ,i want to have a new playlist of songs
+6430,general_quirky,Tôi có thể tìm một chuyên gia chuẩn bị ở đâu với dưới đô la ,where can i find a preparation professional for under dollars
+6348,general_quirky,Tóm lại ngày của tôi ,recap my day
+13675,qa_stock,Giá cổ phiếu hiện tại cho Amazon là bao nhiêu ,what is the current stock price for amazon
+3409,news_query,những gì đang xảy ra với trống ,what is going on with blank
+3505,weather_query,Thời tiết sẽ ở NYC vào tuần tới là gì ,what the weather going to be in nyc next week
+14425,qa_stock,Giá của cổ phiếu táo là bao nhiêu ,what is the price of apple stock today
+7457,calendar_set,Vui lòng sắp xếp lại cuộc họp đến sáu giờ tối vào ngày mai và thông báo cho các thành viên ,please reschedule the meeting to six pm tomorrow and inform members
+719,general_greet,Chào ,hi
+11243,lists_query,Những gì tiếp theo trong danh sách ,what's next on the list
+11758,recommendation_events,Sự kiện này được gọi là gì xảy ra khu vực của tôi ,what is this event is called which happening my area
+11809,recommendation_locations,Bạn có thể giới thiệu các cửa hàng tốt trong lĩnh vực này ,can you recommend good stores in this area
+11062,calendar_set,Thêm nhớ gọi mẹ để nhắc nhở của tôi ,add remember to call mom to my reminders
+11054,lists_remove,Google tôi cần bạn xóa danh sách hiện tại ,google i need you to delete the current list
+17158,email_query,Joe đã để lại bất kỳ thông tin liên lạc nào trong email của mình ,did joe leave any contact information in his email
+11789,recommendation_events,Những sự kiện nào trong khu vực của tôi ,what events are in my area
+3391,music_dislikeness,Hãy nhớ rằng tôi không thích âm nhạc này ,remember that i do not like this music
+5517,music_likeness,Hãy nhớ âm nhạc này ,remember this music
+5800,weather_query,Tôi sẽ cần một chiếc áo khoác sau mười giờ chiều trong khu vực của tôi ,will i need a jacket after ten pm in my area
+14883,qa_currency,Trong bao nhiêu chúng ta có thể trao đổi đô la Mỹ cho rupee Ấn Độ ,for how much can we exchange us dollar for indian rupee
+16076,email_query,Hiển thị email gần đây từ John Olly ,display recent email from john olly
+4368,iot_coffee,tôi muốn một ít cà phê ,i want some coffee
+4987,iot_coffee,Xin vui lòng tách cà phê ,cup of coffee please
+6639,general_quirky,Một ngày tươi mới ,a fresh day
+10149,cooking_recipe,Tìm công thức được đánh giá cao nhất từ Network Food COM cho một Omelette bốn phô mai ,find the highest rated recipe from foodnetworkcom for a four cheese omelette
+9374,play_radio,Tìm cho tôi kênh oldies ,find me the oldies channel
+1364,iot_wemo_off,Giữ ổ cắm trong điều kiện tắt ,keep the socket in off condition
+10963,lists_remove,Vui lòng phá hủy danh sách này ,please destroy this list
+10190,cooking_recipe,Tìm công thức Tikka gà ,find chicken tikka recipe
+11956,recommendation_movies,Olly Những bộ phim đang chơi gần tôi ,olly what movies are playing near me
+2418,music_settings,Đặt bài hát hiện tại khi lặp lại ,put the current song on repeat
+3572,iot_hue_lightoff,Hãy tắt tất cả các đèn trong nhà tôi ,please turn off all the lights in my house
+11817,recommendation_locations,giới thiệu một số cửa hàng địa phương cho tôi ,recommend some local shops to me
+7444,calendar_query,Chủ đề của bữa tiệc là gì ,what is the theme of the party
+14812,general_quirky,là dữ liệu thích bất kỳ vấn đề nào trong các đối tượng ,is the data prefers any problems in objects
+6659,general_quirky,"xin chào, tôi sẽ cần cà phê của tôi ủ lúc bảy giờ sáng hôm nay ",hi i will need my coffee brewed at seven am today
+1146,iot_cleaning,Kích hoạt chân không robot ,activate the robot vacuum
+4265,weather_query,Dự báo thời tiết ngày nay là gì ,what is todays weather forecast
+3342,iot_hue_lightoff,Phòng này tắt đèn ,this room lights off
+2635,audio_volume_up,nâng âm lượng lên năm mươi ,raise the volume to fifty
+17160,email_addcontact,Lưu danh bạ của tôi ,save my contacts
+2748,iot_hue_lightchange,Tôi có thể thay đổi ánh sáng này sang màu cam không ,can i change this light to orange
+15685,social_post,Gửi một tweet đến Wawa địa phương mà dịch vụ của họ là khủng khiếp tại địa điểm thị trường của họ ,send a tweet to the local wawa that their service is terrible at their market st location
+12922,transport_query,Này olly tôi có thể bắt chuyến tàu gần nhất với tôi lúc mấy giờ ,hey olly what time can i catch the nearest train to me
+15239,social_query,Vui lòng cho tôi biết video mới nhất diễn ra virus trên Twitter cho chủ đề Narendra Modi ,please olly tell me the latest video going viral on twitter for topic narendra modi
+12508,transport_query,Tôi có thể đặt vé tàu đến nơi ở Oregon ,where can i book a train ticket to oregon
+7636,calendar_set,Thêm lớp yoga vào buổi trưa vào lịch trình của tôi cho ba chủ nhật tiếp theo ,add yoga class at noon to my schedule for the next three sundays
+12321,transport_taxi,olly gọi một chiếc taxi ,olly call a taxi
+5589,weather_query,Tìm báo cáo thời tiết ,find weather report
+6007,weather_query,Tôi có nên đóng cửa sổ trước khi tôi rời khỏi chiều nay ,should i close the window before i leave this afternoon
+4959,play_music,Chơi cả ngày thứ ba ,play all third day
+4340,takeaway_order,cho tôi thấy món ăn Trung Quốc gần tôi ,show me chinese food near me
+6924,calendar_query,tôi có cuộc họp hôm nay không ,do i have any meeting today
+6258,general_quirky,chào hôm nay hôm nay thế nào ,hi how was your day today
+3847,music_query,loại nhạc yêu thích của tôi là gì ,what are my favorite types of music
+4756,play_music,Tôi muốn nghe một số nhịp độ xuống ,i would like to listen to some down tempo
+14112,qa_currency,Hiển thị tỷ giá hối đoái của u. S. d. vs euro. ,show exchange rate of u. s. d. vs euro
+14728,qa_definition,tiếp thị là gì ,what is marketing
+5425,play_music,Bắt đầu một album Bjork cho tôi ,start up a bjork album for me
+7958,calendar_set,Thêm đám cưới của Valia vào thứ bảy tuần sau tại tám giờ đồng hồ ,add valia's wedding the next saturday at eight o clock
+7290,calendar_remove,Xóa tất cả các cuộc hẹn của tôi cho ngày hôm nay ,delete all my appointments for today
+16670,email_query,Tôi có bao nhiêu email chưa mở ngay bây giờ ,how many unopened emails do i have right now
+14208,qa_factoid,Elvis sinh thành thành phố nào ,what city was elvis born
+1798,play_music,Chơi nhạc yêu thích ,play favourite music
+13996,qa_definition,nghĩa là nghĩa là nghĩa là gì ,what does obligatory mean
+1103,general_greet,chào buổi chiều ,good afternoon
+8931,alarm_set,Đặt báo động cho cuộc họp này ,put alarm for this meeting
+5223,news_query,Tin tức mới nhất về Donald Trump là gì ,what is the latest news about donald trump
+3265,general_joke,Tôi cần nghe một trò đùa bạn có thể cho tôi biết một trò đùa ,i need to hear a joke can you tell me one
+7124,calendar_set,Đặt sự kiện để tái phát mỗi tuần ,set the event to recur every week
+2047,audio_volume_down,thấp tập ,low the volume
+11282,play_podcasts,bạn có thể lùi một tập trong podcast ,can you backward an episode in the podcast
+11765,recommendation_movies,Học trò chơi ,learning games
+16815,email_query,đọc thư ,read mail
+1419,iot_hue_lightup,Xin vui lòng thêm ánh sáng ,more light please
+10431,lists_remove,Lấy trứng ra khỏi danh sách ,take eggs off the list
+3918,play_music,Tôi muốn nghe những hit lớn nhất Beatles ,i want to listen to the beatles greatest hits
+11102,lists_query,Danh sách cửa hàng tạp hóa ,groceries list
+650,alarm_query,Tôi cần phải đặt báo thức bao nhiêu tôi đã đặt ,i need to set an alarm how many do i have set
+7543,calendar_remove,Xóa tất cả các sự kiện từ lịch của tôi cho tuần tới ,clear all events from my calendar for next week
+10517,lists_query,Tôi đã lưu danh sách nào ,what lists do i have saved
+16678,email_query,hey bạn có thể kiểm tra email của tôi và xem nếu có bất kỳ tin nhắn mới ,hey can you check my email and see if there are any new messages
+1520,audio_volume_up,tăng khối lượng lên năm mươi ,increase the volume to fifty
+5507,alarm_set,Hãy sắp xếp để đánh thức tôi dậy lúc ba giờ sáng ,please arrange to wake me up at three am alarm
+7332,calendar_set,Nhắn tin điện thoại Android bị mất của bạn để bật âm lượng chuông lên một phần trăm ,text your lost android phone to turn the ringer volume up one percent
+3429,iot_cleaning,bạn có thể đặt chân không vào ,can you put the vacuum on
+17014,email_sendemail,Trả lời email ,reply to the email
+10383,play_game,Chơi Mindsweeper với tôi ,play mindsweeper with me
+1564,news_query,Những gì đã diễn ra trên thế giới ngày nay ,what went on in the world today
+2344,weather_query,Thời tiết sẽ như thế nào ở thành phố Oklahoma vào thứ Hai ,what will the weather be like in oklahoma city on monday
+15814,email_query,cảnh báo tôi về một email từ Dave về cuộc họp ,alert me of an email from dave about the meeting
+7540,calendar_query,Làm thế nào tôi miễn phí trong tuần này ,how free am i this week
+2577,iot_hue_lightoff,Xin sáng trong bếp ,lights off in the kitchen please
+14979,qa_currency,Tỷ giá tiền tệ của đồng rupee Ấn Độ và đô la Singapore ,currency rate of indian rupee and singapore dollar
+8064,calendar_query,Khi nào tôi cần thanh toán hóa đơn ,when do i need to pay the bills
+5819,play_music,Chơi một số blues bởi atif aslam ,play some blues by atif aslam
+867,iot_wemo_off,Tắt ổ cắm thông minh ,turn off smart socket
+3392,music_likeness,Hãy nhớ rằng đây là âm nhạc yêu thích của tôi ,remember that this is my favorite music
+10165,cooking_recipe,Bao lâu tôi đun sôi một quả trứng luộc cứng ,how long do i boil a hard boiled egg
+9611,play_radio,Chơi bằng đài phát thanh yêu thích ,play by favorite radio station
+627,play_music,Chơi bài hát cuối cùng của Metallica Album cuối cùng ,play the last hit song of metallica last album please
+11311,podcasts,Chơi tập tiếp theo ,play the next episode
+3023,iot_wemo_on,bật Ổ cắm ,turn on socket
+9028,calendar_set,Thêm vào lịch một chuyến thăm nhà hàng ngày trong tuần này ,add to calendar a home visit everyday this week
+6292,general_quirky,"này, tôi tình cờ bỏ lỡ một trong những cuộc họp quan trọng của tôi ngày hôm nay ",hey i happened to miss one of my important meetings today
+14895,qa_factoid,tọa độ của Everest là gì ,what are the coordinates of everest
+15881,email_query,Có bất kỳ thư mới cho tôi ,is there any new mail for me
+8831,calendar_remove,Xóa tất cả dữ liệu từ Lịch ,clear all data from calendar
+5874,weather_query,Tôi có nên mặc một chiếc áo khoác vào hồ bơi ,should i wear a coat to the pool
+11823,recommendation_locations,Tên cửa hàng trong vòng mười dặm bán kính với âm nhạc ,name stores within ten mile radius with music
+12749,transport_ticket,bạn có thể vui lòng mua cho tôi một vé tàu ,can you please buy me a train ticket
+8214,calendar_query,là con gái tôi chơi tối thứ sáu ,is my daughter's play friday night
+15283,social_query,bất kỳ bài đăng facebook mới từ Amy ,any new facebook posts from amy
+5435,alarm_remove,Xóa báo thức tám giờ tối của tôi ,delete my eight pm alarm
+15491,social_post,Tweet một khiếu nại đối với Amazon về lô hàng muộn ,tweet a complaint to amazon about late shipment
+15674,social_post,Sản phẩm này không bao giờ sử dụng ,this product never use
+14122,qa_factoid,bạn có thể vui lòng cho biết thủ đô của nước Mỹ là gì ,could you please tell what is the capital of america
+14294,qa_currency,Giải thích tỷ giá hối đoái của đồng rupee cho đô la ,explain the exchange rate of rupee for dollar
+13366,qa_definition,Định nghĩa và sử dụng trong câu từ tuyệt đối ,definition and use in sentence the word absolute
+10748,lists_remove,Xóa mục đó khỏi danh sách của tôi ,delete that item from my list
+5646,iot_hue_lightoff,Tắt đèn bếp ,switch off kitchen lights
+961,iot_hue_lightup,Hãy tăng độ sáng trong căn phòng này ,please increase the brightness in this room
+9298,play_radio,Vui lòng bắt đầu FM tám trăm và 90 kênh Radio ,please start fm eight hundred and ninety radio channel
+12471,transport_ticket,Mua vé tàu ,buy train ticket
+8012,calendar_query,Hãy cho tôi biết các cuộc họp tôi có trong tuần ,tell me the meetings i have for the week
+7327,calendar_remove,Xóa tất cả nội dung trong lịch của tôi ,erase all content in my calendar
+13520,qa_factoid,Có bao nhiêu Beatles vẫn còn sống ,how many beatles are still alive
+1892,music_query,Cô ấy vừa hát gì ,what did she just sing
+11101,lists_createoradd,Đưa ra một mục vào danh sách này ,give an entry to this list
+10064,cooking_recipe,Tôi nên ăn bao nhiêu loại rau ,how many vegetables should i eat a day
+12744,transport_query,Bạn có thể tìm cho tôi một vé tàu đến Southampton vào ngày Tưởng niệm cuối tuần ,can you find me a train ticket to southampton on memorial day weekend
+7297,calendar_remove,Lấy lịch của tôi và xóa nó ,take my calendar and clear it
+10006,cooking_recipe,Cách nấu cơm ,how to cook rice
+9147,calendar_remove,Tôi muốn loại bỏ chức năng đám cưới vào thứ bảy ,i want to remove the wedding function on saturday
+14443,qa_factoid,là falklands ở Nam Mỹ ,are the falklands in south america
+7083,alarm_set,Đặt báo thức nhắc nhở cho cuộc họp năm giờ chiều của tôi xin vui lòng ,set a reminder alarm for my five pm meeting please
+3577,news_query,Tôi muốn biết mới nhất từ NBC News ,i would like to know the latest from nbc news
+2281,iot_hue_lightchange,Thay đổi đèn nhà của tôi sang màu xanh ,change my house lights colour to blue
+7206,calendar_set,Lưu ý sự kiện quan trọng trong tuần này ,note down important event in this week
+14740,qa_definition,Tháp Eiffel trông như thế nào ,how the eiffel tower looks like
+13196,qa_factoid,channing tatum từ đâu ,where is channing tatum from
+12990,qa_factoid,Dân số thấp nhất trên mỗi dặm vuông ở Châu Phi là bao nhiêu ,what is the lowest population per square mile in africa
+4027,iot_hue_lightchange,Làm sáng màu đỏ ,make light color red
+6270,general_quirky,Hỏi tôi những câu hỏi dễ dàng về một chủ đề mà tôi biết và nói với tôi khi tôi sai ,ask me easy questions about a subject i know and tell me when i'm wrong
+16822,email_querycontact,Số điện thoại của Derek là gì ,what is derek's phone number
+7079,calendar_remove,Vui lòng xóa tất cả các mục trên lịch của tôi ,please remove all items on my calendar
+602,alarm_set,Đặt báo thức để bắt đầu ,set alarm to begin
+3119,datetime_query,Bây giờ là mấy giờ ở miền Trung Tây ,what is the time in the midwest right now
+6444,general_quirky,Hôm nay tôi bị tai nạn xe hơi ,i had a car accident today
+3760,alarm_set,Tôi cần một cuộc gọi Wakeup sáu sáng ,i need a six am wakeup call
+6943,calendar_set,Đặt một sự kiện lịch ,set a calendar event
+9267,play_radio,Chơi ban nhạc Radio Music ,play the radio music band
+13809,qa_factoid,David Bowie bao nhiêu tuổi ,how old is david bowie
+8976,calendar_set,Chỉ cần đặt tôi nhắc nhở về các cuộc họp với các đồng nghiệp của tôi ,just set me reminders about meetings with my colleagues
+57,takeaway_query,Tìm takeaways Thái Lan của tôi xung quanh cỏ ,find my thai takeaways around grassmarket
+4037,iot_hue_lightoff,Sandle. ,sandle
+11403,play_podcasts,Vui lòng chơi tập tiếp theo trong podcast ,please play the next episode in the podcast
+5313,music_settings,Vui lòng đặt radio trong shuffle ,please put radio in shuffle
+15641,social_post,Tweet A phàn nàn về màu giày của tôi trên flipkart ,tweet a complain about my shoe color on flipkart
+2204,general_joke,nói với tôi một trò đùa về chim ,tell me a joke about birds
+1674,alarm_remove,Xóa báo thức của bảy giờ ba mươi sáng vào thứ hai ,remove alarm of seven thirty am on monday
+3412,takeaway_query,Đơn hàng của tôi sẽ được bao lâu ,how long will my order be
+16855,email_query,Email Jane Doe ,jane doe emails
+10258,play_game,Hãy chơi ,lets play
+4367,datetime_query,Thời gian hiện tại ở London là gì ,what is the current time in london
+10029,cooking_recipe,Nhiệt độ nào bạn nướng khoai tây ,what temperature do you bake a potato
+233,alarm_set,Đặt báo thức cho bốn giờ chiều ,set an alarm for four in the afternoon
+9073,calendar_remove,Xóa sự kiện đó khỏi Lịch ,remove that event from calendar
+7901,calendar_query,Những gì tôi đã đi vào từ ba đến bốn giờ chiều ngày hôm nay ,what have i got going on between three and four pm today
+519,datetime_query,mấy giờ rồi ,whats the time
+15521,social_post,Xem ra cho ô khiếu nại của khách hàng và sử dụng các tùy chọn ,look out for customer complaint cell and use the options
+11059,lists_query,Đặt tên cho danh sách có sẵn ,name the lists available
+13364,qa_factoid,Khi nào là ngày của tổng thống ,when is president's day
+915,iot_hue_lightoff,tắt đèn vào phòng tôi ,turn the lights off to my room
+3678,iot_coffee,Tôi muốn một ly cà phê ,i'd like a coffee please
+7159,calendar_remove,Vui lòng khởi động lại và xóa tất cả các mục trong lịch ,please restart and remove all the entries in the calendar
+6664,general_quirky,"Xin chào, bạn đang làm gì ",hi what are you doing
+11547,play_podcasts,Liệt kê và chơi tất cả các podcast lý thuyết dưới mười phút ,list and play all theory podcasts under ten min
+5222,news_query,cho tôi biết những tin tức mới nhất về Donald Trump ,tell me the latest news about donald trump
+692,music_query,tên bài hát đó đã tắt là gì ,what is the name of that song that just went off
+7719,calendar_set,hey lên lịch một cuộc họp với ông Ross cho buổi trưa thứ Sáu này ,hey schedule a meeting with mr ross for this friday noon
+8259,calendar_query,Boy Fallout đang diễn ra ở đâu ,where is fallout boy performing next
+3559,play_music,Chuyển sang danh sách phát tập luyện của tôi ,switch to my workout playlist
+607,audio_volume_mute,Đặt câm trong hai mươi phút ,set mute for twenty minutes
+2341,weather_query,Tôi cần biết thời tiết hiện tại ở thành phố New York ,i need to know current weather in new york city
+16707,email_querycontact,John Smith sống ở đâu và số điện thoại của anh ấy ở đâu ,where does john smith live and what is his phone number
+15840,email_sendemail,Gửi email đến Ray ,send an email to ray
+11663,recommendation_locations,Tôi đang tìm kiếm một quán bar mà bạn biết một cái tốt ,i'm looking for a bar do you know a good one
+3747,news_query,Google cho tôi biết khi có bất cứ điều gì tin tức về Trump ,google let me know when anything news about trump
+10711,lists_createoradd,ghi chú về điều này trong danh sách ,make a note of this on the list
+72,play_music,Bắt đầu chơi nhạc từ yêu thích ,start playing music from favourites
+4627,weather_query,Có phải trời sẽ mưa vào ngày mai ,is it supposed to rain tomorrow
+7148,calendar_remove,Xóa cuộc họp hội đồng quản trị và sắp xếp lại cho thứ Tư tới ,remove the board meeting and reschedule for next wednesday
+12242,transport_taxi,Đặt một chiếc taxi đến sân bay ,book a taxi to the airport
+2110,datetime_query,Bây giờ là mấy giờ ở Karachi ,what time is it in karachi right now
+4120,alarm_query,bạn đã đặt thời gian báo thức nào ,what alarm time had you set
+15025,qa_factoid,Nói cho tôi biết tại sao các mối quan hệ rất khó khăn ,tell me why relationships are so hard
+10334,play_game,Chơi Poker với tôi ,play poker with me
+5068,music_settings,Vui lòng đặt danh sách phát này vào shuffle ,please put this playlist on shuffle
+15227,social_query,Có xu hướng gì trên Twitter ,what is trending on twitter
+1021,music_query,Có bất kỳ rap nào không liên quan đến tiền sex và ma túy ,is there any rap that doesn't involve sex money and drugs
+900,news_query,Hãy cho tôi biết bất kỳ cập nhật về các cuộc hẹn Tủ Trump mới ,let me know any updates about new trump cabinet appointments
+3009,iot_hue_lightup,Tôi cần những cái đèn lớn lên bạn có thể làm điều đó ,i need the lights raised can you do that
+8422,calendar_set,Đặt một lời nhắc nhở cho chuyến đi mua sắm của tôi vào ngày mai vào năm giờ chiều ,set a reminder for my shopping trip tomorrow at five pm
+16208,email_sendemail,Email Tom ngày và giờ cuộc họp ngày mai ,email tom the date and time of tomorrow's meeting
+12262,transport_query,Tôi có thể lấy vé tàu đến Chicago cho thứ bảy tới vào khoảng trưa không ,can i get a train ticket to chicago for next saturday around noon
+4781,alarm_set,đánh thức tôi dậy lúc sáu giờ ba mươi ,wake me up at six thirty
+8143,calendar_set,Thêm một bữa tiệc tối nay trong phần còn lại của tôi ,add a party tonight in my remainder
+4514,iot_hue_lightchange,hey olly làm cho ngôi nhà sáng một màu khác nhau ,hey olly make the house lights a different color
+15866,email_querycontact,Có bao nhiêu liên hệ có tên John ,how many contacts are there named john
+3555,weather_query,Nó sẽ có gió tối nay ,will it be windy tonight
+14702,qa_definition,Giải thích những gì một ống kính tiếp xúc là ,explain what a contact lense is
+4133,weather_query,cho tôi biết thành phố new york có bao nhiêu inch tuyết ngày hôm nay ,tell me how many inches of snow did new york city get today
+5571,iot_cleaning,Máy hút bụi mở ,open vacuum cleaner
+16598,email_sendemail,Trả lời có cho việc này ,reply yes to this
+3536,alarm_remove,Tắt tất cả các báo động của tôi ,turn off all of my alarms
+11995,recommendation_locations,Cho tôi tên của tất cả các cửa hàng trong khu vực của tôi ,give me the name of all the shops in my area
+180,weather_query,Thời tiết bây giờ là gì ,what is the weather now
+2537,play_music,Chơi danh sách năm. ,play list five
+7205,calendar_set,Có nhiều sự kiện quan trọng trong tháng này lưu ý rằng ,there are many important event in this month note down that
+15091,qa_definition,Nhìn lên một cái đèn ,look up a lamp
+2044,iot_hue_lightoff,Tôi không cần đèn ,i don't need the lights
+4257,datetime_query,Xin vui lòng cho tôi biết ngày hiện tại ,please tell me the current date
+13980,qa_currency,Tỷ giá hối đoái mới ,new exchange rate
+5855,iot_cleaning,Bắt đầu robot chân không ,start robot vacuum
+13606,qa_factoid,là leonardo đã kết hôn ,is leonardo married
+6787,calendar_set,Tạo cuộc họp với Paul vào ngày mai lúc sáu giờ tối ,create meeting with paul tomorrow at six pm
+5309,iot_hue_lightoff,cắt đèn tắt ,cut the lights off
+7841,calendar_set,Nhắc nhở tôi nhặt nhiều thức ăn cho chó vào PETCO vào ngày mai lúc bảy giờ hai mươi PM ,remind me to pick up more dog food at petco tomorrow at seven twenty pm
+7838,calendar_query,những gì đang xảy ra trong tám giờ sáng và năm giờ chiều ngày hôm nay ,what is happening during eight am and five pm today
+5876,music_likeness,"Tôi thích nghe bài hát này, nó thực sự làm tôi bình tĩnh lại ",i enjoy listening to this song it really calms me down
+917,alarm_remove,Xóa báo thức buổi sáng của tôi ,remove my morning alarm
+16575,email_query,Tôi đã nhận được bất kỳ email nào từ Tim ,have i received any emails from tim
+4916,weather_query,Dự báo mười ngày cho Baltimore ,ten day forecast for baltimore
+5588,weather_query,tôi có cần một chiếc mũ không ,do i need a hat
+15978,email_addcontact,Thêm sarah làm liên hệ qua email ,add sarah as email contact
+15380,social_post,Đăng hình ảnh lên Facebook ,post picture to facebook
+17063,email_querycontact,Kiểm tra thư này trong liên hệ của tôi nếu không sau đó thêm nó ,check for this mail in my contact if not then add it
+3893,audio_volume_mute,Vui lòng tắt tiếng điều khiển âm lượng ,please mute the volume control
+10634,lists_query,Hiển thị danh sách có sẵn với các số ,show the list that are available with numbers
+4520,datetime_query,ngày nào vào tháng ba hai mươi giây ,what day it is on twenty second april
+16114,email_sendemail,Trả lời tất cả các email nhận được từ mười giờ tối đến chín giờ sáng ,reply to all emails received from ten pm to nine am
+4478,play_music,Sau bài hát này ,after this one play song
+5821,play_music,Tôi muốn nhảy theo giai điệu của Raghu Dixit ,i want to dance to the tune of raghu dixit
+14211,general_quirky,cho tôi biết các chìa khóa để thành công ,tell me the keys to success
+9230,play_radio,Allexa đồng minh vui lòng chơi Pandora Radio ,alexa ally please play pandora radio
+13655,qa_factoid,ngọn núi cao nhất ở Mỹ là gì ,what is the highest mountain in the us
+12726,transport_traffic,Giao thông chậm như thế nào trong năm ,how slow is traffic on the five
+13381,qa_definition,Sử dụng từ này trong một câu ,use this word in a sentence
+7096,calendar_set,Hãy cho tôi biết khi điện thoại của tôi đến hạn ,let me know when my phone is due
+2218,play_music,Tôi muốn nghe slide điện ,i want to listen to electric slide
+15575,social_post,"Mở tài khoản Twitter của tôi và nói với Câu lạc bộ Sams, họ làm cho bánh của tôi đặt hàng ngon ",open my twitter account and tell sams club they made my cake order delicious
+1228,news_query,Đọc cho tôi bài viết mới nhất trên hệ mặt trời mới ,read me the newest article on the new solar system
+15153,social_post,Bạn có thể tải lên selfie mới nhất của mình trong phương tiện truyền thông xã hội của mình không ,can you upload my latest selfie in my social media
+9648,play_radio,Bắt đầu đài phát thanh Oh bảy điểm năm fm ,start radio station one oh seven point five fm
+11724,recommendation_locations,Vườn ô liu gần nhất ở đâu ,where is the nearest olive garden
+4163,iot_hue_lightchange,Vui lòng bật đèn hiên đến màu xanh ,please turn the porch light to blue
+839,alarm_remove,Dừng đánh thức các cuộc gọi trong tuần này ,stop wake up calls for this week
+13004,weather_query,xác suất mà nó sẽ mưa ngày hôm nay là gì ,what are the probability that it will rain today
+1480,iot_hue_lightchange,Bạn có thể thay đổi ánh sáng phòng khách với một màu mềm hơn ,can you change the living room lights to a softer color
+9888,play_audiobook,Bắt đầu chơi từ nơi tôi rời khỏi chiếc cốc lửa ,start playing from where i left off on the goblet of fire
+5992,music_query,Tôi đã chơi gì nhiều nhất ,what have i played the most
+12876,transport_taxi,Gọi RTA và đặt một chiếc taxi trong ba giờ sáng ,call rta and book a taxi for three o'clock in the morning
+14717,qa_stock,cho tôi biết tỷ lệ cổ phiếu của Hyundai ,tell me the stock rate of hyundai
+15407,social_post,Gửi một tweet đến modcloth mà tôi không thích rằng họ sẽ không tôn vinh giá bán cho tôi ,send a tweet to at modcloth that i don't like that they wouldn't honor sales prices for me
+16702,email_sendemail,Xác định vị trí email gần đây nhất của Jen để tôi có thể trả lời ,locate jen's most recent email so i can reply
+9001,calendar_set,Lên lịch một cuộc họp với VP của Sở vào ngày hai mươi đầu tháng 3 hai nghìn và mười bảy tuổi ,schedule a meeting with the vp of the department on the twenty first of march two thousand and seventeen
+3856,weather_query,Có phải sẽ là nắng vào ngày mai ,is it going to be sunny tomorrow
+125,joke,Alexa nói với tôi một trò đùa ,alexa tell me a joke
+4444,transport_query,Bạn cần phải cho tôi các hướng khác nhau ,you need to give me different directions
+10610,lists_createoradd,Thêm mục vào danh sách ,add the item to a list
+16267,email_sendemail,Email cho gia đình tôi nói rằng tôi yêu tất cả các bạn ,email to my family saying i love you all
+231,takeaway_order,Bạn có thể vui lòng giúp tôi đặt một số sushi từ fellowoo ,could you please help me to order some sushi from deliveroo
+2362,takeaway_order,Tìm cho tôi tiếng Trung gần nhất để giao hàng ,find me the nearest chinese for delivery
+6218,general_quirky,Tôi đã đi đến cửa hàng tạp hóa ngày hôm nay ,i went to the grocery store today
+1766,news_query,Vui lòng cho tôi cập nhật khúc côn cầu ,please give me update of hockey
+12057,recommendation_movies,Nhà hát địa phương sàng lọc bộ phim nào ,local theater screening which movie
+1353,audio_volume_down,Tôi muốn làm chậm loa của tôi ,i want to slow down my speaker
+6654,general_quirky,Về thực tế trên thế giới ,about reality in world
+5500,play_music,Chơi Phong cách Song Doggie trong chế độ liên tục ,play the song doggie style in continuous mode
+1672,music,Tất cả âm nhạc được phát hành từ một nghìn chín trăm chín mươi và hai nghìn chỉ là để chơi ,all music released between one thousand nine hundred and ninety and two thousand is only to played
+13586,qa_factoid,Donald Trump có quan hệ với Nga không ,does donald trump have any ties to russia
+7735,calendar_set,Tôi cần sắp xếp một cuộc họp với Jack ,i need to arrange a meeting with jack
+8221,calendar_set,đếm ngược cho thời gian ,countdown for time
+8839,calendar_query,đó là sự kiện tiếp theo sắp tới ,which is the next event coming up
+5227,iot_wemo_off,Làm cho ổ cắm thông minh tắt ,make the smart socket turn off
+15035,qa_definition,Xác định từ tiểu thuyết ,define the word novel
+11310,play_podcasts,podcast yêu thích ,favourite podcast
+8288,calendar_remove,loại bỏ những gì tôi phải làm vào hai mươi ba tháng 3 ,remove what i have to do on the twenty three of march
+7504,calendar_query,Ai đang đến gặp cuộc họp vào ngày mai lúc mười giờ sáng ,who is coming to the meeting tomorrow at ten am
+8819,set,Vui lòng thêm cuộc họp kinh doanh của tôi trong mười giờ sáng tại văn phòng với hóa đơn ,please add my business meeting for ten am at the office with bill
+143,music_dislikeness,tôi không thích nó ,i don't like it
+9751,play_audiobook,Sử dụng cài đặt thời gian ,using time settings
+1107,music_likeness,tôi thực sự âm nhạc ska ,i really ska music
+5932,datetime_convert,Chuyển sang thời điểm Los Angeles ,switch to los angeles time
+10147,cooking_recipe,Tra cứu công thức nấu ăn cho bốn món trứng tráng phô mai ,look up recipes for four cheese omelette
+2759,news_query,Tôi muốn xem tin tức về chính trị ,i want to see news about politics
+10459,lists_remove,Xóa danh sách đã tạo ngày hôm qua ,delete the list created yesterday
+6696,general_quirky,hey olly tôi vừa mất ví của tôi ngày hôm nay ,hey olly i just lost my wallet today
+4054,play_music,Chơi Lupe. ,play lupe
+7687,calendar_set,Mike và Jack nên được thêm vào Lịch lễ hội ,mike and jack should be added to festival calendar
+2508,alarm_set,Tôi cần đặt một báo động cho thứ Sáu tới vào buổi trưa ,i need to set an alarm for next friday at noon
+16191,email_query,Kiểm tra bất kỳ email nếu tôi nhận được từ rohan ,check any email if i got from rohan
+3144,music_likeness,siêu bài hát ,super song
+9169,calendar_set,nhắc nhở tôi về cuộc họp tiếp theo của tôi một vài giờ trước thời hạn ,remind me about my next meeting a few hours ahead of time
+12459,transport_ticket,cho tôi xem vé tàu ,show me train tickets
+3517,news_query,Những gì mới nhất trên tàu ,what's the latest on the train
+4714,play_music,bạn có thể chơi nhạc của tôi không ,can you play my music
+6507,general_quirky,Bạn có thích tổng thống không ,do you like the president
+10578,calendar_remove,Xóa các sự kiện của tôi Tìm kiếm dữ liệu ,clear my events search data
+9087,calendar_set,Tôi phải tham dự một cuộc thi nướng vào sáng thứ Tư lúc bảy cứu và đặt lời nhắc ,i have to attend a baking contest on wednesday morning at seven save and set reminder
+4493,iot_hue_lightchange,Thay đổi màu sắc của ánh sáng của tôi thành một cái gì đó ngẫu nhiên ,change the color of my lights to something random
+15599,social_post,Mở tên công ty và tìm biểu mẫu ,open company name and find forms
+14290,general_quirky,Thể hiện sự khác biệt của trẻ em trong các hành tinh ,show difference of kids in planets
+6333,general_quirky,Tôi đã có một ngày tồi tệ nhất ngày nay ,i had the worst day ever today
+9748,play_audiobook,Tiếp tục niềm tự hào và định kiến ,continue pride and prejudice
+6155,datetime_query,Ngày hai ngày thứ bảy từ bây giờ là gì ,what is the date two saturdays from now
+8075,calendar_query,Tôi có một ngày ăn trưa ngày hôm nay ,do i have a lunch date today
+9869,play_audiobook,Bắt đầu cồn cát từ nơi tôi rời đi ,start dune from where i left off
+12859,transport_query,Khi nào là chuyến tàu tiếp theo đến London ,when is the next train to london
+5391,play_music,Bật nhạc bằng con dấu ,turn on music by seal
+16231,email_sendemail,Vui lòng trả lời email của Greg nói rằng ý tưởng của anh ấy thật tuyệt vời ,please respond to greg's email stating that his idea is fantastic
+10597,lists_query,Nói chuyện với tôi về danh sách ,talk to me about the list
+2601,iot_hue_lightoff,Hãy tắt đèn hiên ,please turn off the porch light
+14092,qa_definition,Siri Khảo sát có nghĩa là gì ,siri what does survey mean
+8961,calendar_query,là năm hai nghìn mười tám một năm nhuận ,is the year two thousand and eighteen a leap year
+15120,calendar_set,olly xin vui lòng lên lịch tất cả các cuộc hẹn bác sĩ của tôi ,olly please schedule all my doctors appointments
+14438,qa_currency,Tìm tỷ giá hối đoái cho bạn. S. d. đến Euro. ,find exchange rate for u. s. d. to euro
+14276,qa_currency,Giá EURO cho bạn là bao nhiêu. S. d. ,what is the price of euro to u. s. d.
+9479,play_radio,Nhấn CHƠI TRÊN RADIO ,press play on the radio
+7119,calendar_query,Có bất cứ điều gì quan trọng cho ngày hôm nay ,is there anything important for today
+6826,calendar_set,Thêm sự kiện lặp lại vào Thứ Bảy trên Seven Am được đặt tên là Rạp chiếu phim ,add repeating event on saturday on seven am named cinema time
+3257,news_query,Olly bất kỳ tin tức mới về Brad Pitt ,olly any fresh news on brad pitt
+7349,calendar_set,Tất cả các sự kiện tháng 3 trong RCCG sẽ được thêm vào lịch của tôi ,all march events in rccg is to be added to my calendar
+5737,alarm_query,cho tôi thời gian báo động trong hai ngày tới ,give me the alarm times for the next two days
+8359,calendar_set,nhắc tôi về điều này vào ngày mai ,remind me about this tomorrow
+14802,general_quirky,Làm thế nào những người đang đau khổ như thế nào bạn sẽ giúp đỡ ,how the people are suffering how you would help
+7532,calendar_set,Vui lòng thêm buổi hòa nhạc tại Summerfest đến Lịch ,please add concert at summerfest to calendar
+8202,calendar_query,Cuộc họp buổi chiều của tôi đã bị hủy chưa ,was my afternoon meeting cancelled
+10117,cooking_recipe,Mất bao lâu để làm bánh mì thịt ,how long does it take to make meatloaf
+7368,calendar_set,Thêm tất cả các sự kiện RRCG vào tháng 3 đến lịch của tôi ,add all rrcg events in march to my calendar
+6419,play_game,Trò chơi ,games
+12746,transport_taxi,Mở ứng dụng Uber và đặt cho tôi một chiếc xe để nhận tại sân bay ,open uber app and book me a car for pick up at the airport
+6685,general_quirky,Hôm nay tôi đã ăn trưa với người yêu lâu năm của mình chơi cho tôi một bài hát hay về tâm trạng ,today i had a lunch with my longtime sweetheart play me a nice song to the mood
+1679,music_query,âm nhạc nào đang chơi bây giờ chín trăm chín mươi chín fm ,what music is playing now nine hundred and ninety nine fm
+1649,iot_hue_lightoff,"Trong ban ngày, tất cả các đèn phải được tắt ",during the daytime all lights has to be turned off
+8353,calendar_set,Đánh dấu ngân sách của tôi gặp gỡ cho mỗi thứ Sáu tại hai ,mark my budget meeting down for every friday at two
+6569,general_quirky,Nói cho tôi biết về Rihanna ,tell me about rihana
+9665,play_audiobook,tua lại audiobook ba mươi giây ,rewind audiobook by thirty seconds
+4537,news_query,Nói cho tôi biết những câu chuyện hàng đầu về LA Times ,tell me the top stories on the la times
+12576,transport_traffic,Giao thông thế nào ,how's the traffic
+14881,qa_currency,Tỷ lệ giá trị của rupee Ấn Độ và đô la Mỹ ,whats the ratio of value of the indian rupee and a us dollar
+5360,datetime_convert,"Chúng ta đang ở múi giờ nào, vui lòng thay đổi sang hiện tại ",which time zone are we in please change to current
+8759,calendar_query,Sự kiện hôm nay ở đâu ,where is the event today
+8448,calendar_set,Đặt một cuộc hẹn cho tôi vào thứ bảy tuần sau tại năm tại thư viện và đặt một lời nhắc nhở ,make an appointment for me next saturday at five at the library and set a reminder
+6986,calendar_query,cho tôi lịch trình chi tiết cho tuần tới ,give me the detailed schedule for next week
+10249,play_game,Hãy chơi một trò chơi đố ,let's play a game of trivia
+2857,weather_query,Thời tiết sẽ như thế nào hôm nay ,what is the weather going to be like today
+6829,calendar_remove,Xóa tất cả các cuộc họp cho ngày mai ,delete all meetings for tomorrow
+10079,cooking_recipe,Có gì dễ dàng để nấu ăn cho thực phẩm ,what's an easy recipe to cook for food
+9543,play_radio,Điều chỉnh vào Ryan Seacrest trên đài phát thanh phòng khách ,tune in to ryan seacrest on the living room radio
+13672,qa_factoid,Có bao nhiêu loài ong ở Hoa Kỳ ,how many species of bees are there in the united states
+971,news_query,hôm nay là gì ,what is new today
+15506,social_post,Gửi một tweet đến Dịch vụ khách hàng của Walmart Chính sách hoàn trả của bạn hôi thối ,send a tweet to walmart customer service your return policy stinks
+16152,email_query,bất kỳ thư mới từ jack ,any new mail from jack
+10204,cooking_recipe,Giải thích cách làm sear một bít tết ,explain how to sear a steak
+10024,cooking_recipe,Tìm cho tôi công thức cho thịt bò Stroganoff ,find me the recipe for beef stroganoff
+13403,general_quirky,"Tính chi phí của các nhà cung cấp cáp và Internet trong khu vực của tôi, nơi tôi có thể tiết kiệm nhiều nhất ",calculate the costs of cable and internet providers in my area where can i save the most
+12025,recommendation_events,Những gì được lên kế hoạch cho ngày hôm nay trong khu vực địa phương của tôi ,what is planned for today in my local area
+16835,email_sendemail,Gửi email đến địa chỉ email mới này ,send the email to this new email address
+36,general_quirky,Kiểm tra xe của tôi đã sẵn sàng ,check my car is ready
+14198,qa_currency,Làm thế nào để đồng đô la so sánh với bảng Anh ,how does the dollar compare to the pound
+9498,play_music,Tôi muốn nghe nhạc rock ,i want to hear rock
+11949,recommendation_locations,Bạn có thể cho tôi biết một nơi tốt để ăn ,can you tell me a good place to eat
+16509,email_sendemail,Trả lời Email. ,answer email
+8983,calendar_set,Nhắc tôi ăn khi tôi về nhà ,remind me to eat when i get home
+14944,qa_factoid,Nói cho tôi biết khi nào nền kinh tế người Ấn sẽ chạm vào châu Mỹ ,tell me when will indians economy touch that of americas
+9898,play_audiobook,đọc audiobook chiến tranh của những bông hồng ,read the audiobook of war of the roses
+9184,calendar_query,Vui lòng tìm sự kiện trong tháng ba ,please find events in the month of march
+7973,query,Những gì trên lịch của tôi ngày hôm nay ,whats on my calendar today
+10869,lists_query,bất cứ điều gì khác để lại trong danh sách ,anything else left on the list
+6587,general_quirky,Hôm nay tôi đã rơi vào công việc ,i fell at work today
+4159,general_joke,hey olly làm tôi cười với một trò đùa tốt ,hey olly make me laugh with a good joke
+363,play_music,Chơi một bài hát ngẫu nhiên từ danh sách phát của tôi ,play a song randomly from my playlist
+13087,qa_maths,Bạn có thể lấy năm và chia cho ba ,can you take five and divide it by three
+14916,qa_factoid,Hiện tại có bao nhiêu người sống ở Oxford ,how many people live in oxford now
+6076,news_query,Bạn có thể tìm hiểu những tin tức thế giới mới nhất từ ngày hôm qua ,can you find out the latest world news from yesterday
+7465,calendar_set,tham dự bữa tiệc với tình yêu thứ sáu này ,attend party with love this friday
+11542,play_podcasts,Tập phim về phía trước của Podcast Times New York ,forward episode of new york times podcast
+11246,lists_createoradd,hiện hành ,current
+5920,news_query,Chuyện gì đang xảy ra với đề xuất ngân sách Trump ,what's going on with the trump budget proposal
+15746,email_addcontact,Tạo liên hệ mới với email ,create new contact with email
+6567,general_quirky,Bạn có cảm xúc không ,do you have feelings
+16516,email_sendemail,Trả lời email này ,reply to this email
+16810,email_query,Tôi có bất kỳ email nào từ Jessica ,do i have any emails from jessica
